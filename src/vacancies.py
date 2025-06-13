@@ -5,7 +5,7 @@ from typing import Optional, Dict, List, Any
 
 from mypy.stubutil import NOT_IMPORTABLE_MODULES
 
-from parser import HeadHunterAPI
+from src.parser import HeadHunterAPI
 
 class Vacancy:
     name: str
@@ -109,7 +109,7 @@ class Vacancy:
         return cls(name=name, url=url, salary_from=salary_from, salary_to=salary_to, currency_salary=currency_salary, requirement=requirement, responsibility=responsibility)
 
     @classmethod
-    def cast_to_object_list(cls, list_dict_vacancy: List[Dict[Any, Any]]):
+    def cast_to_object_list(cls, list_dict_vacancy):
         result = []
         for vacancy in list_dict_vacancy:
             result.append(cls.created_vacancy(vacancy))
@@ -117,17 +117,13 @@ class Vacancy:
 
 
 
-
 if __name__ == "__main__":
     hh = HeadHunterAPI()
-    dict = hh.connect_api('python')['items']
+    dict = hh.connect_api('python')
     vv = Vacancy.cast_to_object_list(dict)
-    print(vv[11])
-    print(vv[12])
-
-    print(vv[11]<vv[12])
-
-
+    for v in vv:
+        print(v.__dict__)
+        print(type(v))
 
 
     # vv = Vacancy('jh', 'https://api.hh.ru/areas/160', {'from': 2000, 'to': None, 'currency': 'USD', 'gross': False}, 'ghjg', 'hjhk' )

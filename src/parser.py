@@ -10,11 +10,6 @@ class Parser(ABC):
         """Абстрактный метод для подключения к API"""
         pass
 
-    # @abstractmethod
-    # def get_vacancies(self, *args, **kwargs):
-    #     """Абстрактный метод для получения списка вакансий по ключевому слову"""
-    #     pass
-
 
 class HeadHunterAPI(Parser):
     """Класс для работы с API HeadHunter и получения вакансий по ключевому слову"""
@@ -26,7 +21,7 @@ class HeadHunterAPI(Parser):
         if response.status_code != 200:
             print(f'Произoшла ошибка: {response.status_code}')
             return None
-        data_response = response.json()
+        data_response = response.json()['items']
 
         # json_result = json.dumps(data_response, indent=4, ensure_ascii=False)
         return data_response
