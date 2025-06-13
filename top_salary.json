@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Financial Analyst",
+        "url": "https://hh.ru/vacancy/121619337",
+        "salary_from": 10000000,
+        "salary_to": 15000000,
+        "currency_salary": "UZS",
+        "requirement": "Experience with ERP or financial software (e.g., QuickBooks, SAP, Oracle). Bonus: Knowledge of SQL, <highlighttext>Python</highlighttext>, Google Sheets, Tableau. ",
+        "responsibility": "Ability to analyze financial statements (P&L, Cash Flow, Balance Sheet). Skilled in forecasting, cost analysis, and financial modeling. "
+    },
+    {
+        "name": "Backend-разработчик (Strong Middle)",
+        "url": "https://hh.ru/vacancy/121544036",
+        "salary_from": 5000000,
+        "salary_to": 5000000,
+        "currency_salary": "UZS",
+        "requirement": "Опыт работы от 1 года в коммерческих проектах. Хорошие знания <highlighttext>Python</highlighttext> - низкоуровневый, Socket, Websocket, Linux OS, shell, DevOps skill. ",
+        "responsibility": "Исследование / Research. Рефакторинг, оптимизация проекта. Разработка серверных проектов. Проектирование, написание тех.документации. Гибкие реализации в работе с RESTAPI, Socket, Websocket. "
+    },
+    {
+        "name": "Chief Technical Officer/CTO",
+        "url": "https://hh.ru/vacancy/121595924",
+        "salary_from": 350000,
+        "salary_to": 500000,
+        "currency_salary": "RUR",
+        "requirement": "Опыт руководства IT-направлением включая роли CTO, VP of Engineering или Head of Development. - Глубокие знания в: - Опыт масштабирования IT...",
+        "responsibility": "Разработка и реализация технической стратегии компании, направленной на масштабирование платформы и выход на новые рынки. - Управление командами разработки (Backend, Frontend..."
+    },
+    {
+        "name": "Quant Developer (C++)",
+        "url": "https://hh.ru/vacancy/121607669",
+        "salary_from": 320000,
+        "salary_to": 480000,
+        "currency_salary": "RUR",
+        "requirement": "2+ года коммерческого опыта в разработке торговых стратегий (algo trading / quant dev). Сильное владение C++: современный стандарт, многопоточность, профилирование...",
+        "responsibility": "Взаимодействие с трейдерами и инфраструктурной командой. Интеграция с API криптобирж (CEX), контроль исполнения и PnL-моделей. <highlighttext>Python</highlighttext> — для аналитики, бэктестов..."
+    },
+    {
+        "name": "Strong Junior Backend разработчик",
+        "url": "https://hh.ru/vacancy/121548246",
+        "salary_from": 300000,
+        "salary_to": 500000,
+        "currency_salary": "KZT",
+        "requirement": "Отличное знание <highlighttext>Python</highlighttext>. Опыт работы с Django и Django REST Framework. Уверенное владение GitLab, умение настраивать CI/CD пайплайны. ",
+        "responsibility": "Поддержка и развитие текущего проекта (основная задача). Разработка REST API на DRF. Работа с GitLab CI/CD. Работа с Docker..."
+    },
+    {
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/121533983",
+        "salary_from": 250000,
+        "salary_to": 250000,
+        "currency_salary": "RUR",
+        "requirement": "Основные инструменты: SQL, MS Excel (продвинутый уровень).",
+        "responsibility": "ГАЗФОНД пенсионные накопления\" – строим цифровой фонд будущего!  Влияние на бизнес-решения – твоя аналитика будет влиять на стратегические решения.  "
+    },
+    {
+        "name": "Middle+ Python Developer (backend)",
+        "url": "https://hh.ru/vacancy/121604742",
+        "salary_from": 230000,
+        "salary_to": 230000,
+        "currency_salary": "RUR",
+        "requirement": "Уверенное знание <highlighttext>Python</highlighttext> 3 (3+ лет опыта). Опыт разработки REST API (FastAPI / Flask / Django REST Framework). Опыт работы с...",
+        "responsibility": "Разработкой backend-части ИИ-ассистентов на <highlighttext>Python</highlighttext>. Интеграцией с языковыми моделями (OpenAI, LLaMA, Claude и др.) через API. "
+    },
+    {
+        "name": "Senior Frontend-разработчик (React, Next.js)",
+        "url": "https://hh.ru/vacancy/121455801",
+        "salary_from": 200000,
+        "salary_to": 200000,
+        "currency_salary": "RUR",
+        "requirement": "Опыт Frontend разработки от 3-х лет, хорошее знание React. Хотя бы 1 законченный продукт в prod среде (желателен B...",
+        "responsibility": "Проектировать и разрабатывать компоненты системы под высокую нагрузку. Разрабатывать компоненты для UI-kit. Разрабатывать и дорабатывать фичи (в рамках командной..."
+    }
+]
