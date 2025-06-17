@@ -27,24 +27,6 @@ class FileHandler(ABC):
 
 class FileManager(FileHandler):
 
-    # def to_json(self, obj_list):
-    #     data = []
-    #     for obj in obj_list:
-    #         data.append(self.to_dict(obj))
-    #     return json.dumps(data, indent=4)
-    #
-    # def to_dict(self, obj):
-    #     return {attr: getattr(obj, attr) for attr in self.class_dict['attributes'] if hasattr(obj, attr)
-
-
-    # def save_list_vacancies(self, filename, data):
-    #     result = []
-    #     for item in data:
-    #         result.append(item.__dict__)
-    #
-    #     with open(filename, 'w', encoding='utf-8') as file:
-    #          json.dump(result, file,  ensure_ascii=False, indent=4)
-
     def save_list_vacancies(self, filename, data):
         result = []
         for item in data:
