@@ -1,902 +1,902 @@
 [
     {
-        "_Vacancy__name": "Web-программист - стажер",
-        "_Vacancy__url": "https://hh.ru/vacancy/118711736",
-        "_Vacancy__salary_from": 100000,
-        "_Vacancy__salary_to": 100000,
-        "_Vacancy__currency_salary": "KZT",
-        "_Vacancy__requirement": "Carfast- Первый онлайн авто аукцион в Казахстане. Доброжелательный и целеустремленный командный игрок. Принимаете верные решения в критических ситуациях. ",
-        "_Vacancy__responsibility": "Лучшая система аналитики товаров на Kaspi. Fastbot - Телеграм бот для поиска авто. Ну и есть конечно же такие проекты, как..."
-    },
-    {
-        "_Vacancy__name": "Программист, Python-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121620174",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Опыт разработки ботов (на <highlighttext>Python</highlighttext> или другом языке). - Знание API Telegram, WhatsApp Business API или Discord.js. - Навыки внедрения AI. - ",
-        "_Vacancy__responsibility": "Разрабатывать и поддерживать чат-ботов для Telegram, WhatsApp, Discord или других платформ. - Интегрировать AI. - Настраивать взаимодействие с внешними API. - "
-    },
-    {
-        "_Vacancy__name": "Backend Developer (Python) - Junior Level",
-        "_Vacancy__url": "https://hh.ru/vacancy/121547831",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Опыт работы с FastAPI: понимание принципов его работы и построения API. Опыт работы с другими <highlighttext>Python</highlighttext>-фреймворками (Flask/Django) будет...",
-        "_Vacancy__responsibility": "Помощь в поддержке и развитии текущих решений: исправление багов написание функций, взаимодействие по REST API. Участие в разработке новых компонентов..."
-    },
-    {
-        "_Vacancy__name": "Инженер по програмировании в Японии (ЯПОНИЯ)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121462016",
-        "_Vacancy__salary_from": 1500,
-        "_Vacancy__salary_to": 1500,
-        "_Vacancy__currency_salary": "USD",
-        "_Vacancy__requirement": "Базовые знания <highlighttext>Python</highlighttext>, C++, JavaScript, Java. Владение японским языком на уровне JLPT N3 и выше (N4 — по согласованию). ",
-        "_Vacancy__responsibility": "Участие в разработке внутренних продуктов и внешних контрактных проектов. Проектирование, программирование, тестирование, внедрение и поддержка ПО. Работа с реальными проектами..."
-    },
-    {
-        "_Vacancy__name": "Strong Junior Backend разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121548246",
-        "_Vacancy__salary_from": 300000,
-        "_Vacancy__salary_to": 500000,
-        "_Vacancy__currency_salary": "KZT",
-        "_Vacancy__requirement": "Отличное знание <highlighttext>Python</highlighttext>. Опыт работы с Django и Django REST Framework. Уверенное владение GitLab, умение настраивать CI/CD пайплайны. ",
-        "_Vacancy__responsibility": "Поддержка и развитие текущего проекта (основная задача). Разработка REST API на DRF. Работа с GitLab CI/CD. Работа с Docker..."
-    },
-    {
-        "_Vacancy__name": "Python Developer",
-        "_Vacancy__url": "https://hh.ru/vacancy/121595420",
-        "_Vacancy__salary_from": 50000,
-        "_Vacancy__salary_to": 100000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Опыт в бекенд разработке не менее года. Знание языка программирования <highlighttext>Python</highlighttext>. Знание фреймворка Django. Знание и опыт практического использования PostgreSQL. ",
-        "_Vacancy__responsibility": "Разработка чат-ботов Telegram и интеграция их с внешними сервисами. Разработка бекенд части Mini Apps Telegram. Доработка и поддержание реализованных..."
-    },
-    {
-        "_Vacancy__name": "Backend-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121606171",
-        "_Vacancy__salary_from": 1000,
-        "_Vacancy__salary_to": 2000,
-        "_Vacancy__currency_salary": "UZS",
-        "_Vacancy__requirement": "От 2 лет коммерческого опыта в backend-разработке на <highlighttext>Python</highlighttext>. Уверенные знания FastAPI, SQLAlchemy, Pydantic. Опыт работы с PostgreSQL, Redis...",
-        "_Vacancy__responsibility": "Разрабатывать и поддерживать backend нашего сервиса на FastAPI. Проектировать и оптимизировать архитектуру, повышая её масштабируемость и производительность. Работать с базами..."
-    },
-    {
-        "_Vacancy__name": "Python-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121614450",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 2-х лет. Уверенное знание Django Framework. Опыт работы с реляционными БД (PostgreSQL, MySQL). ",
-        "_Vacancy__responsibility": "Разработка и поддержка веб приложений на Django. Написание и поддержка автоматизированных тестов. Проектирование и оптимизация архитектуры приложений. Интеграция с внешними..."
-    },
-    {
-        "_Vacancy__name": "Web-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121045974",
+        "_Vacancy__name": "Заместитель руководителя по техническим вопросам",
+        "_Vacancy__url": "https://hh.ru/vacancy/121649482",
         "_Vacancy__salary_from": 150000,
-        "_Vacancy__salary_to": 300000,
-        "_Vacancy__currency_salary": "KZT",
-        "_Vacancy__requirement": "Начальные знания backend-технологий (например: Node.js, PHP или <highlighttext>Python</highlighttext>). Понимание основ работы с базами данных (SQL или MongoDB). ",
-        "_Vacancy__responsibility": "Разработка серверной части приложения (Node.js / PHP / <highlighttext>Python</highlighttext> / Laravel и др.). Создание и интеграция RESTful API или GraphQL API. "
-    },
-    {
-        "_Vacancy__name": "QA тестировщик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121510049",
-        "_Vacancy__salary_from": 90000,
-        "_Vacancy__salary_to": 180000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Опыт тестирования REST/GraphQL API, уверенное владение DevTools. Навыки написания автотестов (<highlighttext>Python</highlighttext> или JavaScript/TypeScript) и SQL-запросов для валидации...",
-        "_Vacancy__responsibility": "Автоматизировать критичные smoke- и regression-сценарии (на <highlighttext>Python</highlighttext>/TypeScript). Вести дефекты, отслеживать SLA исправлений; собирать и анализировать метрики качества (DEF..."
-    },
-    {
-        "_Vacancy__name": "Manual game tester",
-        "_Vacancy__url": "https://hh.ru/vacancy/121509074",
-        "_Vacancy__salary_from": 1500,
-        "_Vacancy__salary_to": 1500,
-        "_Vacancy__currency_salary": "EUR",
-        "_Vacancy__requirement": "Опыт тестирования web-приложений. - Базовое владение языком программирования (наш стек <highlighttext>Python</highlighttext> / Typescript). - Базовые знания html/css. - Знание терминов протокола HTTP...",
-        "_Vacancy__responsibility": "Ручное тестирование продуктов компании. - Запуск и анализ результатов запусков автотестов. - Составление тест-кейсов и их поддержание в актуальном состоянии. - "
-    },
-    {
-        "_Vacancy__name": "Middle Python Developer",
-        "_Vacancy__url": "https://hh.ru/vacancy/121618997",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Опыт работы с <highlighttext>Python</highlighttext> от 2-х лет . Опыт работы с одним или несколькими фреймворками: FastApi, Flask, Django, Django REST. ",
-        "_Vacancy__responsibility": null
-    },
-    {
-        "_Vacancy__name": "Стажер-разработчик Python",
-        "_Vacancy__url": "https://hh.ru/vacancy/121522362",
-        "_Vacancy__salary_from": 45000,
-        "_Vacancy__salary_to": 45000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Как всё будет: → Апгрейд знаний по <highlighttext>Python</highlighttext> и актуальному стеку. → Подключаешься к боевым задачам.  Хардкорная практика с нуля.  ",
-        "_Vacancy__responsibility": "Неделя 11: Финальные штрихи. → Полируешь проект. → Готовишься к демо. → Презентуешь проект. → Получаешь фидбэк и финальную оценку."
-    },
-    {
-        "_Vacancy__name": "QA Engineer (тестировщик)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121504526",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Понимание жизненного цикла ПО. Знание <highlighttext>Python</highlighttext>. Опыт в написании автоматических тестов UI. Опыт в написании интеграционных автотестов. Опыт работы с...",
-        "_Vacancy__responsibility": "Разработка автоматических тестов frontend/backend. Ручное тестирование backend/frontend (функциональное, исследовательское, регрессионное, smoke). Взаимодействие с разработчиками, аналитиками и руководителями проектов. "
-    },
-    {
-        "_Vacancy__name": "Python-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121429807",
-        "_Vacancy__salary_from": 110000,
-        "_Vacancy__salary_to": 130000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Опыт разработки на <highlighttext>Python</highlighttext> в Linux, Git. Знание основ РСУБД, HTTP, REST API, принципов ООП. Готовность разбираться в предметной области...",
-        "_Vacancy__responsibility": "Реализация интеграции с различными внешними сервисами. Автоматизация бизнес процессов. Написание программного кода, тестов, рефакторинг, документирование. Планирование архитектуры компонентов системы, выбор..."
-    },
-    {
-        "_Vacancy__name": "Инженер по тестированию",
-        "_Vacancy__url": "https://hh.ru/vacancy/121594977",
-        "_Vacancy__salary_from": 100000,
-        "_Vacancy__salary_to": 160000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Желательно: - знание языка программирования <highlighttext>Python</highlighttext>. - опыт написания руководств по эксплуатации и методик тестирования реальных устройств. - базовые знания в области системного...",
-        "_Vacancy__responsibility": "ООО «Центр инженерной физики МГУ» разрабатывает системы для диагностики электроники, контроллеры электроприводов для ЧПУ станков и другие электронные устройства для..."
-    },
-    {
-        "_Vacancy__name": "Тестировщик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121569167",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Понимание основных принципов REST API, базовое знание HTTP. Начальное знание <highlighttext>Python</highlighttext> (понимание таких тем, как: условные операторы, циклы, методы строк...",
-        "_Vacancy__responsibility": "Тестировать API, backend, frontend, требования UX|UI ПО. Анализировать данные веб-трафика (логи). Подготавливать тестовые данные. Настраивать тестовое окружение. "
-    },
-    {
-        "_Vacancy__name": "Специалист по тестированию",
-        "_Vacancy__url": "https://hh.ru/vacancy/120481632",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Навыки написания скриптов на bash и <highlighttext>python</highlighttext>. Навыки работы с БД (Postgresql), создание простых запросов. Навыки работы с Docker, Ansible. ",
-        "_Vacancy__responsibility": "Проверка демосистем и выставочных комплектов. Проверка документации на соответствие функциональности ПО. Опционально: QA Lead, Написание автотестов (<highlighttext>python</highlighttext>) и скриптов (bash..."
-    },
-    {
-        "_Vacancy__name": "Стажер в направление Big Data",
-        "_Vacancy__url": "https://hh.ru/vacancy/121527189",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Начальный уровень <highlighttext>Python</highlighttext> и стремление улучшить свои знания. Базовый уровень SQL (умение писать простые запросы). Уверенное знание Excel. ",
-        "_Vacancy__responsibility": "Составлять базовые запросы SQL. Собирать и анализировать бизнес-требования. Собирать и обрабатывать данные из различных источников. Участвовать в автоматизации рутинных..."
-    },
-    {
-        "_Vacancy__name": "Python (FastAPI/Django) Developer",
-        "_Vacancy__url": "https://hh.ru/vacancy/121277408",
-        "_Vacancy__salary_from": 2500,
-        "_Vacancy__salary_to": 2500,
-        "_Vacancy__currency_salary": "USD",
-        "_Vacancy__requirement": "Опыт разработки на <highlighttext>Python</highlighttext> от 2 лет. Уверенное знание FastAPI, SQLAlchemy, опыт с PostgreSQL. Умение писать сложные SQL-запросы и...",
-        "_Vacancy__responsibility": "Разработка backend-части нового продукта на FastAPI (асинхронно). Интеграция с внешними сервисами и микросервисами (RabbitMQ, Redis). Проектирование архитектуры, бизнес-логики..."
-    },
-    {
-        "_Vacancy__name": "Программист-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121541033",
-        "_Vacancy__salary_from": 40000,
-        "_Vacancy__salary_to": 40000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Знали основы <highlighttext>Python</highlighttext>. Работали с MySQL. Были ответственным, самостоятельным, организованным. Быстро обучались, стремились учиться и развиваться. Знаете Django. ",
-        "_Vacancy__responsibility": "Создание парсеров, кликеров и прочих скриптов для сбора и мониторинга. Составление схем взаимодействия между сервисами. Написание проектов по автоматизации работы. "
-    },
-    {
-        "_Vacancy__name": "Python Developer в департамент кредитных рисков",
-        "_Vacancy__url": "https://hh.ru/vacancy/121606282",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Опыт коммерческой разработки микросервисов на Рython — от 1 года. Уверенное владение асинхронным программированием в <highlighttext>python</highlighttext> (async/await). Отличное знание fastapi...",
-        "_Vacancy__responsibility": "Разработка и поддержка микросервисов на <highlighttext>Python</highlighttext> с использованием FastAPI. Проектирование архитектуры, реализация бизнес-логики, интеграция с внешними сервисами. "
-    },
-    {
-        "_Vacancy__name": "Младший тестировщик ПО (Junior QA)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121498560",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Опыт тестирования мобильных приложений (appium, katalon). Опыт разработки и применения автоматизированного тестирования. Опыт нагрузочного тестирования (Jmeter - запись и воспроизведение скриптов...",
-        "_Vacancy__responsibility": "Проведение ручного и автоматизированного тестирования ПО. Фиксирование найденных дефектов в баг-трекере. Анализ тестируемого продукта на соответствие требованиям. "
-    },
-    {
-        "_Vacancy__name": "DevOps инженер",
-        "_Vacancy__url": "https://hh.ru/vacancy/121603923",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Навыки работы с git, CI/CD, Gitlab Actions (написание скриптов, отладка, мониторинг). Знание Bash и <highlighttext>Python</highlighttext> для написания скриптов и...",
-        "_Vacancy__responsibility": "Обслуживание, мониторинг и поддержка инфраструктуры. Улучшение инфраструктуры для повышения отказоустойчивости и масштабируемости. Реагирование и устранение возникающих проблем в инфраструктуре. "
-    },
-    {
-        "_Vacancy__name": "Middle+ Python Developer (backend)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121604742",
-        "_Vacancy__salary_from": 230000,
-        "_Vacancy__salary_to": 230000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Уверенное знание <highlighttext>Python</highlighttext> 3 (3+ лет опыта). Опыт разработки REST API (FastAPI / Flask / Django REST Framework). Опыт работы с...",
-        "_Vacancy__responsibility": "Разработкой backend-части ИИ-ассистентов на <highlighttext>Python</highlighttext>. Интеграцией с языковыми моделями (OpenAI, LLaMA, Claude и др.) через API. "
-    },
-    {
-        "_Vacancy__name": "Python Developer",
-        "_Vacancy__url": "https://hh.ru/vacancy/121530045",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "От 2 лет коммерческого опыта разработки на <highlighttext>Python</highlighttext>. Уверенные навыки работы с асинхронными фреймворками, такими как asyncio и FastAPI. ",
-        "_Vacancy__responsibility": "Разработка и оптимизация архитектуры баз данных. Создание Backend-приложений с нуля и их дальнейшее развитие. Проектирование, разработка и поддержка RESTful..."
-    },
-    {
-        "_Vacancy__name": "Инженер-сборщик FPV дронов",
-        "_Vacancy__url": "https://hh.ru/vacancy/120998843",
-        "_Vacancy__salary_from": 100000,
-        "_Vacancy__salary_to": 100000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Опыт сборки мультироторных дронов, а также БПЛА Самолетного типа. Навыки программирования на языке <highlighttext>Python</highlighttext> будет преимуществом. Высшее или среднее техническое...",
-        "_Vacancy__responsibility": "Качественная и точная сборка радиоэлектронных изделий. Работа ручным и электронным инструментом (паяльная станция, фен и т.д.). Пайка элементов, работа..."
-    },
-    {
-        "_Vacancy__name": "Backend-Python Middle+ разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121564916",
-        "_Vacancy__salary_from": 200000,
         "_Vacancy__salary_to": 250000,
         "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Опыт работы как Backend-<highlighttext>Python</highlighttext> разработчиком не менее 2 лет. Глубокие знания и опыт работы с <highlighttext>Python</highlighttext>. Глубокое понимание фреймворков...",
-        "_Vacancy__responsibility": "Разработка и тестирование новых функций и возможностей нашего приложения, основываясь на требованиях и спецификациях. Участие в архитектурном и проектировочном процессе..."
+        "_Vacancy__requirement": "Высшее техническое образование (желательно в области транспорта или механики). Опыт работы <highlighttext>слесарем</highlighttext> или механиком, практические навыки ремонта техники (двигатели, подвески...",
+        "_Vacancy__responsibility": "Помощь руководителю в управлении компанией. Участие в разработке и реализации стратегии развития мощностей компании, включая парк техники и инфраструктуру для..."
     },
     {
-        "_Vacancy__name": "Backend-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121100936",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Высшее техническое образование. Уверенные знания одного из языков: Java, <highlighttext>Python</highlighttext>, Node.js, Go, C#. Знание принципов ООП, архитектурных паттернов, разработки API. ",
-        "_Vacancy__responsibility": "Разработка и поддержка серверной логики и API для внутренних и внешних приложений. Работа с микросервисной архитектурой и интеграционными решениями (REST..."
-    },
-    {
-        "_Vacancy__name": "Junior product/data-аналитик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121459033",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Будет плюсом: Опыт работы с любым BI-инструментом (Qlik, Power BI или аналогичным). Опыт работы с <highlighttext>Python</highlighttext> для анализа данных...",
-        "_Vacancy__responsibility": "Сбор, анализ и уточнение требований заказчиков. Мониторинг и формирование продуктовых метрик для оценки эффективности продукта. Анализ внедрения новых фич и..."
-    },
-    {
-        "_Vacancy__name": "Тестировщик ПО",
-        "_Vacancy__url": "https://hh.ru/vacancy/121380408",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Желателен опыт работы с Kubernetes и Docker. Будет плюсом: знание основ автоматизации (Selenium, <highlighttext>Python</highlighttext>) или нагрузочного тестирования (JMeter, Gatling, k...",
-        "_Vacancy__responsibility": "Функциональное, регрессионное, интеграционное, smoke-тестирование, приемочное (UAT). Нефункциональное тестирование: нагрузочное, usability, кросс-браузерное и кросс-платформенное тестирование. Баг-трекинг. "
-    },
-    {
-        "_Vacancy__name": "Разработчик/Вайб-кодинг/Дизайнер",
-        "_Vacancy__url": "https://hh.ru/vacancy/121511915",
-        "_Vacancy__salary_from": 100000,
-        "_Vacancy__salary_to": 1000000,
-        "_Vacancy__currency_salary": "KZT",
-        "_Vacancy__requirement": "Знания: Kotlin, Swift, Flutter — желательно. Владение <highlighttext>Python</highlighttext> как кросс-навык — обязательно. Глубокое понимание HTML, CSS, JS. Создание визуальных решений: веб...",
-        "_Vacancy__responsibility": "Разработка и поддержка backend-систем различной сложности. Интеграция с внешними сервисами, API, CRM, базами данных. Создание и автоматизация бизнес-процессов..."
-    },
-    {
-        "_Vacancy__name": "Программист в миллиардный стартап",
-        "_Vacancy__url": "https://hh.ru/vacancy/121455098",
-        "_Vacancy__salary_from": 80000,
-        "_Vacancy__salary_to": 300000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Знание ООП итд. Подтвержденное образование по профилю. Возможно неоконченное, но обязательно с подтверждением бумагами - дипломы, справки, сертификаты и т.д. ",
-        "_Vacancy__responsibility": "Программно-аппаратный комплекс для управления устройствами (от телефона и телевизора до умных домов, станков ЧПУ и конвейерного производства). "
-    },
-    {
-        "_Vacancy__name": "Аналитик данных",
-        "_Vacancy__url": "https://hh.ru/vacancy/121533983",
-        "_Vacancy__salary_from": 250000,
-        "_Vacancy__salary_to": 250000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Основные инструменты: SQL, MS Excel (продвинутый уровень).",
-        "_Vacancy__responsibility": "ГАЗФОНД пенсионные накопления\" – строим цифровой фонд будущего!  Влияние на бизнес-решения – твоя аналитика будет влиять на стратегические решения.  "
-    },
-    {
-        "_Vacancy__name": "Backend-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121619725",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 1000000,
-        "_Vacancy__currency_salary": "KZT",
-        "_Vacancy__requirement": "Опыт работы с PDF на backend (<highlighttext>Python</highlighttext> / Node.js). Знание библиотек: pdf-lib, pypdf, pdfrw, pdfplumber и т.д. ",
-        "_Vacancy__responsibility": "Автоматически заполняет PDF-форму I-140 (USCIS). На старте — данные вводятся вручную. Распознавание документов/OCR пока не нужно. "
-    },
-    {
-        "_Vacancy__name": "Frontend-разработчик (middle)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121505275",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Уметь работать с Git.​​​​​​​. Опыт работы с REST API. Figma. Опыт разработки WEB-приложений (SPA, MPA). <highlighttext>Python</highlighttext>/Django​​​​​​​.",
-        "_Vacancy__responsibility": "Разработка клиентской части web-приложений. Поддержка существующего фронтенда."
-    },
-    {
-        "_Vacancy__name": "Заместитель руководителя IT-департамента",
-        "_Vacancy__url": "https://hh.ru/vacancy/121564591",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Высшее IT/техническое образование + дополнительное обучение. Опыт 3-5+ лет (включая управление командами от 5 человек). ",
-        "_Vacancy__responsibility": "Формирование команд (разработка, аналитика, тестирование, BI/AI, DevOps) совместно с руководителем. Проведение технических собеседований с HR, оценка навыков кандидатов. "
-    },
-    {
-        "_Vacancy__name": "Стажер-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121204000",
-        "_Vacancy__salary_from": 150000,
-        "_Vacancy__salary_to": 150000,
-        "_Vacancy__currency_salary": "KZT",
-        "_Vacancy__requirement": "Знание основ программирования. Знания любого языка программирования (JavaScript, PHP, <highlighttext>Python</highlighttext>, C#, Java, C, C++ и др). Писать код, понимать основные...",
-        "_Vacancy__responsibility": "Разработка, развитие и поддержка Аналитической системы."
-    },
-    {
-        "_Vacancy__name": "IT Support / Service Desk Specialist",
-        "_Vacancy__url": "https://hh.ru/vacancy/121616619",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Английский язык (В2). Базовые навыки скриптинга (PowerShell, Bash, JavaScript или <highlighttext>Python</highlighttext>). Базовое понимание IT-систем, API и облачных сервисов. ",
-        "_Vacancy__responsibility": "Оказывать первичную IT-поддержку: решать проблемы с ПО, VPN и сетью по email, в чатах и через Service Desk. "
-    },
-    {
-        "_Vacancy__name": "Заместитель начальника инспекции Департамента аудита образования, науки и инноваций",
-        "_Vacancy__url": "https://hh.ru/vacancy/120862523",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "...РФ и т.п.) - как преимущество. Владение инструментами анализа данных (<highlighttext>Python</highlighttext>, SQL, BI-системы, электронные таблицы, запросы по API) - как...",
-        "_Vacancy__responsibility": "Участие в организации и проведении контрольных и экспертно-аналитических мероприятий. Разработка дизайна мероприятия; участие в организации и выполнении прикладных исследований..."
-    },
-    {
-        "_Vacancy__name": "Full-stack QA Engineer",
-        "_Vacancy__url": "https://hh.ru/vacancy/121532406",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Имеешь опыт в разработке автоматизированных тестов для фронтенд и бэкенд компонентов с использованием <highlighttext>Python</highlighttext> от 1 года. Имеешь опыт работы...",
-        "_Vacancy__responsibility": "Ключевые задачи: Функциональное тестирование backend/frontend. Написание и поддержка автотестов (<highlighttext>Python</highlighttext> + Selenium). Разработка и написание тестовой/проектной документации. "
-    },
-    {
-        "_Vacancy__name": "Backend-разработчик (Python FastAPI)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121484485",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Основной: <highlighttext>Python</highlighttext>, FastAPI, SQLAlchemy ORM. Понимание и базовое чтение кода на Go и Rust будет плюсом (есть компоненты на Go...",
-        "_Vacancy__responsibility": "Поддержка и развитие backend-сервиса на FastAPI (<highlighttext>Python</highlighttext>), написание асинхронного и поддерживаемого кода. Ведение документации и обеспечение работоспособности системы. "
-    },
-    {
-        "_Vacancy__name": "Программист Python",
-        "_Vacancy__url": "https://hh.ru/vacancy/121404661",
-        "_Vacancy__salary_from": 80000,
-        "_Vacancy__salary_to": 80000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Знание и понимание Django, FastApi, Flask (что-нибудь на 5+, используем все). Power BI – знание и практический опыт сборки...",
-        "_Vacancy__responsibility": "Организовывать и поддерживать обмен данных по API из 1с, битрикса, я.метрики, СРМ, и т.п.. ETL процессы, управление. "
-    },
-    {
-        "_Vacancy__name": "Тестировщик игр",
-        "_Vacancy__url": "https://hh.ru/vacancy/121253853",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Базовые представления о геймдизайне. Базовые навыки программирования (<highlighttext>python</highlighttext>, lua). Умение работать с базами данных, понимание, что такое json, умение писать...",
-        "_Vacancy__responsibility": "Ручное тестирование игровых проектов. Функциональное и нефункциональное тестирование, проведение регрессии. Проверки игрового баланса и экономики. Составление и актуализация тестовой документации..."
-    },
-    {
-        "_Vacancy__name": "Middle QA инженер (Sminex Development)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121533656",
-        "_Vacancy__salary_from": 190000,
-        "_Vacancy__salary_to": 268000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Опыт работы QA от 2 лет. Опыт работы с продуктами Atlassian (Jira, Confluence). Знание 1С и опыт работы с...",
-        "_Vacancy__responsibility": "Интеграции: REST API. Языки: C#, PowerShell, <highlighttext>Python</highlighttext>, JS. Microsoft Project Server. Проводить функциональное, регрессионное и интеграционное тестирование продуктов на платформе..."
-    },
-    {
-        "_Vacancy__name": "Начинающий тестировщик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121460844",
-        "_Vacancy__salary_from": 100000,
-        "_Vacancy__salary_to": 160000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Готовность к полному рабочему дню (без совмещения с другой работой или учебой)​​​​​​​. Будет плюсом: Знание SQL. Базовые навыки программирования (<highlighttext>Python</highlighttext>...",
-        "_Vacancy__responsibility": "Тестировать веб и мобильные приложения на наличие багов. Описывать найденные ошибки и отслеживать их исправление. Работать с тест-кейсами и..."
-    },
-    {
-        "_Vacancy__name": "Python-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121600529",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Глубокие знания <highlighttext>Python</highlighttext> (FastAPI, Django или Flask). (Разработка REST API, middlewares, роутинг, тестирование). Опыт работы с асинхронным программированием и aiohttp...",
-        "_Vacancy__responsibility": "Разработка и поддержка серверной логики и API на базе <highlighttext>Python</highlighttext> (FastAPI / Django / Flask). Проектирование и реализация микросервисов и внутренних сервисных..."
-    },
-    {
-        "_Vacancy__name": "Senior frontend developer / руководитель отдела фронтенд разработки",
-        "_Vacancy__url": "https://hh.ru/vacancy/121532343",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Опыт в fintech-проектах. Знание <highlighttext>Python</highlighttext>, Django, FastAPI, Flask. Опыт работы с Prometheus, Grafana. Стек <highlighttext>Python</highlighttext>, Django + DRF, FastAPI...",
-        "_Vacancy__responsibility": "Участие в разработке продукта на всех этапах от создания идеи до конечной реализации и развертывания решения. Разработка нового функционала и..."
-    },
-    {
-        "_Vacancy__name": "Программист",
-        "_Vacancy__url": "https://hh.ru/vacancy/121563635",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Требования: Требования:Опыт работы с <highlighttext>Python</highlighttext> 3.8+ от 6 месяцев, знание FastAPI, Pydantic, HTTPX.Опыт интеграции с REST API...",
-        "_Vacancy__responsibility": "Обязанности:Доработка REST API на FastAPI для эндпоинта /search и новых функций (фильтры, сортировка).Оптимизация производительности (кэширование, асинхронные запросы с..."
-    },
-    {
-        "_Vacancy__name": "Продуктовый/BI аналитик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121019021",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Ты будешь: Знание программы SQL, Power BI, Oracle, <highlighttext>Python</highlighttext>. Опыт работы в данном направлении от 2-х и более лет. ",
-        "_Vacancy__responsibility": "Анализировать источники данных. Строить воронки продаж. Собирать требования для построения консолидированных витрин с аналитическими данными. Проводить А/Б тесты. "
-    },
-    {
-        "_Vacancy__name": "Analyst / Аналитик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121464440",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Проактивность: можешь сам разобраться, задать вопрос, собрать решение. Будет плюсом: участие в олимпиадах по математике, физике, других точных науках. <highlighttext>Python</highlighttext>...",
-        "_Vacancy__responsibility": "Анализировать цикл жизни пользователей: от клика до повторных покупок. Помогать улучшать внутренние системы: автоматизация, креативные тесты, трекинг. Строить дашборды, которые..."
-    },
-    {
-        "_Vacancy__name": "Financial Analyst",
-        "_Vacancy__url": "https://hh.ru/vacancy/121619337",
-        "_Vacancy__salary_from": 10000000,
-        "_Vacancy__salary_to": 15000000,
-        "_Vacancy__currency_salary": "UZS",
-        "_Vacancy__requirement": "Experience with ERP or financial software (e.g., QuickBooks, SAP, Oracle). Bonus: Knowledge of SQL, <highlighttext>Python</highlighttext>, Google Sheets, Tableau. ",
-        "_Vacancy__responsibility": "Ability to analyze financial statements (P&L, Cash Flow, Balance Sheet). Skilled in forecasting, cost analysis, and financial modeling. "
-    },
-    {
-        "_Vacancy__name": "Data Analyst / Аналитик данных",
-        "_Vacancy__url": "https://hh.ru/vacancy/121468358",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Отличное знание SQL и баз данных. Знание математической статистики, предиктивной аналитики и опыт их применения на практике. Уверенное знание <highlighttext>Python</highlighttext>...",
-        "_Vacancy__responsibility": "Анализ клиентской базы и выявление зависимостей между параметрами клиентов и последующими оттоком/докупками. Сегментация клиентской базы УК. Анализ эффективности регулярных..."
-    },
-    {
-        "_Vacancy__name": "Программист Python/Java",
-        "_Vacancy__url": "https://hh.ru/vacancy/121006198",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Высшее техническое образование, преимущественно - информационные технологии. Отличное владение <highlighttext>Python</highlighttext> 3+ и/или Java 11+. Опыт работы с фреймворками...",
-        "_Vacancy__responsibility": "Разработка и сопровождение программного обеспечения на <highlighttext>Python</highlighttext> и Java в рамках образовательных, аналитических и цифровых проектов. Проектирование архитектуры приложений, написание..."
-    },
-    {
-        "_Vacancy__name": "Фронтенд-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121608475",
-        "_Vacancy__salary_from": 750,
-        "_Vacancy__salary_to": 750,
-        "_Vacancy__currency_salary": "USD",
-        "_Vacancy__requirement": "Навыки и опыт: Знание HTML5/CSS3. Знание JavaScript. Уверенные знания принципов работы протоколов HTTP. Знания графических пакетов — Adobe...",
-        "_Vacancy__responsibility": null
-    },
-    {
-        "_Vacancy__name": "Junior Analyst (gamedev)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121521237",
-        "_Vacancy__salary_from": 100000,
-        "_Vacancy__salary_to": 220000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Базовое техническое образование. - Опыт работы с Tableau. - Знание SQL. - Готовность к тз. - Самостоятельность, способность быстро учиться и добиваться результатов. ",
-        "_Vacancy__responsibility": "Анализ, гипотезы и влияние на продукт. - Находить точки роста для монетизации и вовлечения. - Настраивать дашборды и мониторить метрики. - "
-    },
-    {
-        "_Vacancy__name": "Разработчик Python в IT-компанию",
-        "_Vacancy__url": "https://hh.ru/vacancy/121621436",
-        "_Vacancy__salary_from": 30000,
-        "_Vacancy__salary_to": 40000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Ты должен знать: ️ <highlighttext>Python</highlighttext>. ️ React. Ты подойдешь, если: ️ Любишь предлагать крутые идеи. Не знаешь ответственности. А дальше будешь расти от...",
-        "_Vacancy__responsibility": "Fast API. ️ Ci/Cd. Любишь сдаваться, столкнувшись с пределом своей компетенции. Выполняешь работу не в срок и с плохим качеством."
-    },
-    {
-        "_Vacancy__name": "Младший тестировщик чат-ботов/младший тестировщик диалоговых систем",
-        "_Vacancy__url": "https://hh.ru/vacancy/121409875",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 70000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "...интерес представляют казахский, кыргызский, испанский). Базовые навыки разработки на одном из языков программирования (предпочтительно на JavaScript, <highlighttext>Python</highlighttext>, Kotlin или Java).",
-        "_Vacancy__responsibility": "60+ компаний-партнеров. Проводить ревью технического задания перед согласованием с заказчиком. Создавать тест-кейсы и описывать сценарии использования бота..."
-    },
-    {
-        "_Vacancy__name": "Python Backend-разработчик (Django)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121459879",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Уверенное знание <highlighttext>Python</highlighttext> 3, Django и Django REST Framework. Опыт работы с Redis, Celery, RabbitMQ. Навыки работы с PostgreSQL. ",
-        "_Vacancy__responsibility": "Поддерживать и дорабатывать сервисы на <highlighttext>Python</highlighttext>. Интегрировать и поддерживать внутренние и внешние API (Яндекс Маркет, Авито, CDEK, платежные системы Тинькофф..."
-    },
-    {
-        "_Vacancy__name": "Старший инженер по качеству/Сетевой инженер (NGFW)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121452582",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Базовые знания скриптовых языков: bash, <highlighttext>python</highlighttext> и др. Знание протоколов динамической маршрутизации (OSPF, BGP). Опыт работы с межсетевыми экранами, системами...",
-        "_Vacancy__responsibility": "Проводить тестирование межсетевого экрана (NGFW). Подготавливать стенды и окружение для тестирования. Описанием (формализацией) проводимых тест-кейсов и результатов. "
-    },
-    {
-        "_Vacancy__name": "Аналитик данных",
-        "_Vacancy__url": "https://hh.ru/vacancy/121607528",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Уверенное знание SQL, Excel / Google Sheets, <highlighttext>Python</highlighttext>. Опыт работы с BI-инструментами: Tableau, Power BI, Looker или Google Data Studio. ",
-        "_Vacancy__responsibility": "Data-аналитик. Предстоящие задачи: Анализировать эффективность маркетинговых каналов и кампаний: performance, SEO, контент, CRM. Создавать и поддерживать дашборды и отчёты..."
-    },
-    {
-        "_Vacancy__name": "Младший специалист отдела разработки (Python) / Специалист по парсингу данных",
-        "_Vacancy__url": "https://hh.ru/vacancy/121023718",
-        "_Vacancy__salary_from": 70000,
-        "_Vacancy__salary_to": 70000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Что обязательно нужно знать и уметь: <highlighttext>Python</highlighttext> на базовом уровне (циклы, функции, структуры данных, ООП). Что такое Header, Cookie и...",
-        "_Vacancy__responsibility": null
-    },
-    {
-        "_Vacancy__name": "QA engineer Junior+",
-        "_Vacancy__url": "https://hh.ru/vacancy/121527883",
+        "_Vacancy__name": "Слесарь-сборщик / монтажник металлоконструкций",
+        "_Vacancy__url": "https://hh.ru/vacancy/121728864",
         "_Vacancy__salary_from": 100000,
         "_Vacancy__salary_to": 120000,
         "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Имеешь опыт использования систем баг-трекинга и Git. Будет плюсом, если у тебя есть опыт в:",
-        "_Vacancy__responsibility": "Анализировать требования к разрабатываемым приложениям. Создавать и актуализировать документацию по тестированию (тест-кейсы, отчеты по тестированию, баг-репорты). "
+        "_Vacancy__requirement": "Умение работать болгаркой, сверлом. Опыт монтажником, <highlighttext>слесарем</highlighttext>-сборщиком приветствуется!",
+        "_Vacancy__responsibility": "Монтаж технологического оборудования и связанных с ним конструкций. Подготовка металла к сварке. Работа в звене со сварщиком."
     },
     {
-        "_Vacancy__name": "Специалист по работе с геоданными",
-        "_Vacancy__url": "https://hh.ru/vacancy/121495956",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Умение проводить анализ данных (Data Analysis, системный анализ). Знание <highlighttext>Python</highlighttext> для автоматизации обработки данных. Автоматизация ETL-процессов (например, конвертация данных...",
-        "_Vacancy__responsibility": "Обработка и анализ геопространственных данных. Разработка и оптимизация SQL-запросов. Взаимодействие с ГИС-инструментами (QGIS). Документирование процессов и результатов анализа. "
-    },
-    {
-        "_Vacancy__name": "Python Developer / Программист Python",
-        "_Vacancy__url": "https://hh.ru/vacancy/121545098",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Владение ОС Linux (уровень администратора).  Знания языка программирования <highlighttext>Python</highlighttext>.  Английский язык (чтение технической документации).  Инициативность, исполнительность, обязательность.  Умение работать как...",
-        "_Vacancy__responsibility": "Разработка программного обеспечения для широкого спектра телеметрического оборудования.  Работа с базами данных SQL.  Реализация и поддержка REST API.  "
-    },
-    {
-        "_Vacancy__name": "Аналитик данных",
-        "_Vacancy__url": "https://hh.ru/vacancy/121565524",
+        "_Vacancy__name": "Слесарь механосборочных работ",
+        "_Vacancy__url": "https://hh.ru/vacancy/121620580",
         "_Vacancy__salary_from": 110000,
-        "_Vacancy__salary_to": 110000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Представление о том как устроен бизнес-цикл: \"маркетинг>заявка>продажа>оказание услуги постпродажное обслуживание\". Желательно знание R/<highlighttext>Python</highlighttext>, power query...",
-        "_Vacancy__responsibility": "Сбор данных из разных источников, необходимых для формирования отчетов, их структурирование и обработка (сколько заявок в день поступило, сколько ушло..."
-    },
-    {
-        "_Vacancy__name": "Тестировщик middle",
-        "_Vacancy__url": "https://hh.ru/vacancy/121046084",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Гибкость и умение быстро переключаться между разными проектами. Опыт автоматизации тестирования на <highlighttext>Python</highlighttext>. Знание ClickHouse. Опыт работы с Allure TestOps.",
-        "_Vacancy__responsibility": "Тестирование серверной и клиентской части продуктов. Анализ требований к продукту с точки зрения тестирования. Документирование выявленных дефектов и контроль их..."
-    },
-    {
-        "_Vacancy__name": "Тестировщик ПО (QA-инженер)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121119894",
-        "_Vacancy__salary_from": 140000,
         "_Vacancy__salary_to": 200000,
         "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Знание английского языка на уровне чтения технической литературы. Базовые знания <highlighttext>python</highlighttext>, опыт использования PostgreSQL (выполнение запросов, просмотр схемы данных), опыт...",
-        "_Vacancy__responsibility": "Функциональное тестирование ПО (Windows/Linux, C/C++, Qt). Интеграционное тестирование сложных клиент-серверных систем. Разработка и поддержка тест-кейсов, тест..."
+        "_Vacancy__requirement": "среднее профессиональное образование.",
+        "_Vacancy__responsibility": "Завод располагает собственными техническими службами, обеспечивающими сопровождение производства выпускаемых изделий спецтехники. В связи с расширением и ростом производства, необходимы сотрудники! "
     },
     {
-        "_Vacancy__name": "QA engineer / Инженер по ручному тестированию (TATLIN.UNIFIED)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121523241",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Опыт тестирования клиент-серверных приложений. Опыт написания тестовой документации. Знание и понимание теории тестирования. Знания ОС Linux: ядро, файловые системы...",
-        "_Vacancy__responsibility": "Наш департамент обработки данных – часть большой команды разработки флагманского продукта компании – TATLIN.UNIFIED. Разработкой тестовых планов и сценариев тестирования для новой..."
+        "_Vacancy__name": "Водитель категории \"B\"",
+        "_Vacancy__url": "https://hh.ru/vacancy/121664843",
+        "_Vacancy__salary_from": 1800,
+        "_Vacancy__salary_to": 3000,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "Действующая медицинская справка. Водительское удостоверение категории \"В\". Наличие санитарной книжки.",
+        "_Vacancy__responsibility": "Обеспечение безопасной эксплуатации и бережное отношение к закрепленному транспортному средству. Работа с ТТН и сопутствующей документацией."
     },
     {
-        "_Vacancy__name": "Lead Analyst | Руководитель группы аналитики",
-        "_Vacancy__url": "https://hh.ru/vacancy/121511271",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Экспертное владение SQL и знания аналитических инструментов в <highlighttext>Python</highlighttext>. Знание основных метрик: LTV, Retention, Churn rate, ROI и т.д. ",
-        "_Vacancy__responsibility": "Быть играющим тренером, руководить командой продуктовых аналитиков. Изучать данные и искать точки роста. Участвовать в генерации гипотез и проведении экспериментов. "
-    },
-    {
-        "_Vacancy__name": "Backend-разработчик (Strong Middle)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121544036",
-        "_Vacancy__salary_from": 5000000,
-        "_Vacancy__salary_to": 5000000,
-        "_Vacancy__currency_salary": "UZS",
-        "_Vacancy__requirement": "Опыт работы от 1 года в коммерческих проектах. Хорошие знания <highlighttext>Python</highlighttext> - низкоуровневый, Socket, Websocket, Linux OS, shell, DevOps skill. ",
-        "_Vacancy__responsibility": "Исследование / Research. Рефакторинг, оптимизация проекта. Разработка серверных проектов. Проектирование, написание тех.документации. Гибкие реализации в работе с RESTAPI, Socket, Websocket. "
-    },
-    {
-        "_Vacancy__name": "Руководитель казначейства",
-        "_Vacancy__url": "https://hh.ru/vacancy/121467557",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Развитые управленческие навыки (подтвержденные навыки управления командой от 5-7 чел.). Технические навыки (знание SQL, <highlighttext>Python</highlighttext>, VBA - будет преимуществом).",
-        "_Vacancy__responsibility": "Разработка и реализация плана по фондированию и стратегии по фондированию. Управление ОВП Банка, текущей ликвидностью, управление процентным, валютным, рыночным риском..."
-    },
-    {
-        "_Vacancy__name": "Frontend-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121570611",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Больше трех лет работы на React с TypeScript. Знание тонкостей Virtual DOM и понимание, когда лучше использовать Hooks, Context или...",
-        "_Vacancy__responsibility": "Вовлекаться в работу команды: участвовать в ревью, синхронизироваться с UX-дизайнерами и <highlighttext>Python</highlighttext>-разработчиками. Умеешь раскладывать микрофронты на составляющие: Webpack..."
-    },
-    {
-        "_Vacancy__name": "PHP-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121604159",
-        "_Vacancy__salary_from": 150000,
-        "_Vacancy__salary_to": 180000,
+        "_Vacancy__name": "Механик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121727581",
+        "_Vacancy__salary_from": 100000,
+        "_Vacancy__salary_to": 150000,
         "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Будет плюсом: Опыт оптимизации кода, поиск узких мест. Умение качественно понимать код, написанный коллегой. Базовые знания Go и/или <highlighttext>Python</highlighttext>.",
-        "_Vacancy__responsibility": null
+        "_Vacancy__requirement": "Высшее или среднее профессиональное образование. Опыт работы от 6 лет. Пользователь ПК. Умение и опыт управления персоналом (<highlighttext>слесари</highlighttext>, водители).",
+        "_Vacancy__responsibility": "Управление водительским коллективом. Организация эксплуатации автомобильной легковой и грузовой техники, содержание её в исправном состоянии; контроль технического состояния транспортных средств. "
     },
     {
-        "_Vacancy__name": "Junior Python Backend Developer",
-        "_Vacancy__url": "https://hh.ru/vacancy/121594109",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 120000,
+        "_Vacancy__name": "Водитель грузового автомобиля (5 тонн)",
+        "_Vacancy__url": "https://hh.ru/vacancy/121690771",
+        "_Vacancy__salary_from": 3000,
+        "_Vacancy__salary_to": 3500,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "Желателен опыт в развозке товаров. Наличие водительских прав категории В и С. Наличие санитарной справки. Внимательность, пунктуальность, стрессоустойчивость.",
+        "_Vacancy__responsibility": "Развоз продовольственной и непродовольственной группы товаров по торговым точкам г. Минска и Республики Беларусь."
+    },
+    {
+        "_Vacancy__name": "Водитель автомобиля скорой медицинской помощи (Имени Пучкова)",
+        "_Vacancy__url": "https://hh.ru/vacancy/121508162",
+        "_Vacancy__salary_from": 100000,
+        "_Vacancy__salary_to": 100000,
         "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Уверенное знание <highlighttext>python</highlighttext>. Уверенное знание django и DRF. Опыт работы с git. Опыт работы с PostgreSQL и умение писать SQL...",
-        "_Vacancy__responsibility": "Поддерживать и дополнять функционал CRM."
+        "_Vacancy__requirement": "Водительское удостоверение категории «В». Опыт работы водителем или наличие водительского стажа. Хорошее знание города Москвы.",
+        "_Vacancy__responsibility": "Управление автомобилем скорой медицинской помощи (Мерседес, Форд, Газель, Фольксваген). Определение оптимального маршрута движения. Доставка дежурной бригады врачей для оказания неотложной..."
     },
     {
-        "_Vacancy__name": "Backend-разработчик (Python/Django)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121468837",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Технологии: Рассмотрим кандидатов с опытом и без. Уверенные знания <highlighttext>Python</highlighttext>, Django, PostgreSQL (моделирование, индексы, оптимизация). Опыт с Docker и CI...",
-        "_Vacancy__responsibility": "Разработка и поддержка API и бизнес-логики. Интеграции с внешними сервисами. Поддержка архитектуры модульного монолита. Покрытие кода тестами, участие в..."
+        "_Vacancy__name": "Рабочий на оконный завод",
+        "_Vacancy__url": "https://hh.ru/vacancy/121600923",
+        "_Vacancy__salary_from": 1700,
+        "_Vacancy__salary_to": 2600,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "желание работать. - опрятный внешний вид. - возможно без опыта.",
+        "_Vacancy__responsibility": "сборка стеклопакетов. - погрузка конструкций. - иные работы связанные с производственной необходимостью."
     },
     {
-        "_Vacancy__name": "QA engineer / Инженер по ручному тестированию (TATLIN.UNIFIED)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121523240",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Опыт тестирования клиент-серверных приложений. Опыт написания тестовой документации. Знание и понимание теории тестирования. Знания ОС Linux: ядро, файловые системы...",
-        "_Vacancy__responsibility": "Наш департамент обработки данных – часть большой команды разработки флагманского продукта компании – TATLIN.UNIFIED. Разработкой тестовых планов и сценариев тестирования для новой..."
-    },
-    {
-        "_Vacancy__name": "Программист",
-        "_Vacancy__url": "https://hh.ru/vacancy/121514944",
-        "_Vacancy__salary_from": 50000,
-        "_Vacancy__salary_to": 50000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Умение парсить данные и работать с API. - Знание <highlighttext>Python</highlighttext>. - Опыт использования MySQL. - Умение работать с Selenium. - Навыки работы с Google...",
-        "_Vacancy__responsibility": null
-    },
-    {
-        "_Vacancy__name": "Computer Vision Engineer",
-        "_Vacancy__url": "https://hh.ru/vacancy/121607670",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 8000,
-        "_Vacancy__currency_salary": "USD",
-        "_Vacancy__requirement": "Сильные навыки программирования на <highlighttext>Python</highlighttext>. - Практический опыт с фреймворками глубокого обучения, такими как TensorFlow или PyTorch. - Знание библиотек и инструментов...",
-        "_Vacancy__responsibility": "Разработка и оптимизация алгоритмов обработки изображений и видео, включая стилизацию, улучшение качества и генерацию контента. - Создание и обучение диффузионных моделей..."
-    },
-    {
-        "_Vacancy__name": "Senior Backend Engineer / Старший бэкэнд разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121562193",
-        "_Vacancy__salary_from": 6000,
-        "_Vacancy__salary_to": 12000,
-        "_Vacancy__currency_salary": "USD",
-        "_Vacancy__requirement": "7+ years of backend or data engineering experience. Proficiency with <highlighttext>Python</highlighttext>, Node.js, TypeScript, and PostgreSQL. Extensive experience with AWS...",
-        "_Vacancy__responsibility": "We at Podscribe measure advertisers’ campaign performance everywhere from podcasts and videos to social media platforms. We’re involved in..."
-    },
-    {
-        "_Vacancy__name": "Middle QA Engineer (web/back/mob/api)",
-        "_Vacancy__url": "https://hh.ru/vacancy/119865616",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Работа с инструментами – Jira, Allure TestOps, Charles, DevTools, ELK. Базовые знания автоматизации (<highlighttext>Python</highlighttext> + Selenium) или готовность обучаться (есть курсы). ",
-        "_Vacancy__responsibility": "Расширять тестовое покрытие на веб через разработку новых и поддержку текущих UI E2E автотестов (<highlighttext>Python</highlighttext> + Selenium). "
-    },
-    {
-        "_Vacancy__name": "IT - Project manager",
-        "_Vacancy__url": "https://hh.ru/vacancy/121551230",
+        "_Vacancy__name": "Слесарь механосборочных работ",
+        "_Vacancy__url": "https://hh.ru/vacancy/121641561",
         "_Vacancy__salary_from": 120000,
         "_Vacancy__salary_to": 120000,
         "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Иметь тех бекграунд - понимать, что такое HTTP запрос, чем отличается JS от <highlighttext>Python</highlighttext>, что такое ООП. Знание excel, kanban, figma. ",
-        "_Vacancy__responsibility": "Управление проектами по разработке веб-сайтов и мобильных приложений на всех этапах: от инициации до завершения. Планирование, контроль и координация..."
+        "_Vacancy__requirement": "Среднее специальное образование. Готовность к командировками. Знание мерительного инструмента, как преимущество.",
+        "_Vacancy__responsibility": "...производителя), гарантийное сопровождение, сервисное обслуживание и модернизация. Мы в поиске <highlighttext>Слесаря</highlighttext> механосборочных работ. Обслуживание и ремонт производственного оборудования. "
     },
     {
-        "_Vacancy__name": "Prompt-engineer / Промт-инженер",
-        "_Vacancy__url": "https://hh.ru/vacancy/120824427",
-        "_Vacancy__salary_from": 100000,
-        "_Vacancy__salary_to": 150000,
+        "_Vacancy__name": "Механик-завгар",
+        "_Vacancy__url": "https://hh.ru/vacancy/121694150",
+        "_Vacancy__salary_from": 65000,
+        "_Vacancy__salary_to": 100000,
         "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Опыт в разработке. Будет плюсом: Знание <highlighttext>Python</highlighttext>/JavaScript. Опыт работы с моделями различной размерности 7b, 70b. ",
-        "_Vacancy__responsibility": "Разработка и настройка чат-ботов на основе LLM в визуальном редакторе. Построение логики работы чат-ботов в соответствии с требованиями..."
+        "_Vacancy__requirement": "Образование среднее специальное (техническое) или высшее образование (желательно). Опыт работы в сфере технического обслуживания и ремонта автотранспорта не менее 3...",
+        "_Vacancy__responsibility": "Контроль соблюдения водителями правил эксплуатации автотранспорта. Организация работы <highlighttext>слесарей</highlighttext> и водителей. -основ организации ремонтных работ. -норм расхода ГСМ и запасных..."
     },
     {
-        "_Vacancy__name": "Quant Developer (C++)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121607669",
-        "_Vacancy__salary_from": 320000,
-        "_Vacancy__salary_to": 480000,
+        "_Vacancy__name": "Сварщик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121647661",
+        "_Vacancy__salary_from": 110000,
+        "_Vacancy__salary_to": 140000,
         "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "2+ года коммерческого опыта в разработке торговых стратегий (algo trading / quant dev). Сильное владение C++: современный стандарт, многопоточность, профилирование...",
-        "_Vacancy__responsibility": "Взаимодействие с трейдерами и инфраструктурной командой. Интеграция с API криптобирж (CEX), контроль исполнения и PnL-моделей. <highlighttext>Python</highlighttext> — для аналитики, бэктестов..."
+        "_Vacancy__requirement": "С опытом сварщика (любой вид сварки). Имеете навык работы с ручным электро- и пневмоинструментом. Аккуратный человек (контроль производства изделия на...",
+        "_Vacancy__responsibility": "Подготовка заготовок после лазерной резки. Аккуратная сборка деталей. Работа с ручным и пневматическим инструментом. Сварка деталей (самая современная - лазерная)."
     },
     {
-        "_Vacancy__name": "Product analyst junior",
-        "_Vacancy__url": "https://hh.ru/vacancy/121617056",
+        "_Vacancy__name": "Слесарь-сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121521266",
+        "_Vacancy__salary_from": 136895,
+        "_Vacancy__salary_to": 136895,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы в монтаже систем отопления, водоснабжения, канализации или схожей специальности. Знание принципов работы монтируемых систем. Умение читать и понимать...",
+        "_Vacancy__responsibility": "Монтаж внутренних систем отопления, водоснабжения, канализации. Работы по прокладке трубопроводов, монтажу радиаторов, раковин, унитазов, смесителей, сифонов, запорно-регулирующей арматуры и..."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/120754512",
         "_Vacancy__salary_from": 0,
         "_Vacancy__salary_to": 0,
         "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Базовые знания SQL и <highlighttext>Python</highlighttext>. Навыки работы с BI-инструментами (например, Superset, QlikSense, Power BI). Понимание основ анализа данных и...",
-        "_Vacancy__responsibility": "Осуществление сбора и обработки данных из различных источников с использованием SQL (Greenplum, Clickhouse) или <highlighttext>Python</highlighttext>. Разработка визуализаций и отчетов в..."
+        "_Vacancy__requirement": "Опыт работы от 1 до 3 лет в аналогичной должности. Знание технологий монтажа и пусконаладочных работ. Умение работать в команде...",
+        "_Vacancy__responsibility": "Монтаж и установка внутренних систем водопровода и канализации. Обеспечение качества и надежности выполненных работ. Взаимодействие с другими специалистами на объекте."
     },
     {
-        "_Vacancy__name": "Chief Technical Officer/CTO",
-        "_Vacancy__url": "https://hh.ru/vacancy/121595924",
-        "_Vacancy__salary_from": 350000,
+        "_Vacancy__name": "Слесарь-сборщик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121615571",
+        "_Vacancy__salary_from": 500000,
         "_Vacancy__salary_to": 500000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Опыт руководства IT-направлением включая роли CTO, VP of Engineering или Head of Development. - Глубокие знания в: - Опыт масштабирования IT...",
-        "_Vacancy__responsibility": "Разработка и реализация технической стратегии компании, направленной на масштабирование платформы и выход на новые рынки. - Управление командами разработки (Backend, Frontend..."
-    },
-    {
-        "_Vacancy__name": "QA Manual Engineer",
-        "_Vacancy__url": "https://hh.ru/vacancy/120900522",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Имел опыт работы с системами виртуализации (KVM, Ovirt, VMware). Опыт работы с базами данных. Знаешь принципы программирования, <highlighttext>Python</highlighttext>.",
-        "_Vacancy__responsibility": "Выявление и анализ ошибок и проблем, возникающих у пользователей при работе с программными продуктами. Документирование найденных дефектов и контроль их..."
-    },
-    {
-        "_Vacancy__name": "Python Developer (разработчик)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121548432",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Уверенное владение <highlighttext>Python</highlighttext> 3, asyncio. Коммерческий опыт разработок на <highlighttext>Python</highlighttext> от 3х лет. Знание и понимание основ построения высоконагруженных...",
-        "_Vacancy__responsibility": "Анализ требований, проектирование и реализация новой функциональности. Обеспечение поддержки 3го уровня (поиск и решение проблем). Участие, в совместном с..."
-    },
-    {
-        "_Vacancy__name": "Backend-Developer Python (intern/junior)",
-        "_Vacancy__url": "https://hh.ru/vacancy/120575970",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "<highlighttext>Python</highlighttext> 3.12. Asyncpg, aiohttp/fastapi/flask. PostgreSQL, Redis; Docker, Git/gitlab. Хорошее знание <highlighttext>Python</highlighttext> 3. Опыт работы с любыми...",
-        "_Vacancy__responsibility": "Разрабатывать и улучшать инструменты, направленные как на оптимизацию образовательного процесса для учеников и преподавателей, так и на оптимизацию работы внутренних..."
-    },
-    {
-        "_Vacancy__name": "PHP разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121467141",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "...принципов и шаблонов проектирования систем. Понимание DDD и принципов построения \"Чистой архитектуры\". Знание и опыт работы с Node.js / Go / <highlighttext>Python</highlighttext>.",
-        "_Vacancy__responsibility": "Разработка основного проекта компании - ядра, с которым взаимодействуют все клиентские сервисы (такие как собственная фронтенд-платформа, партнерские сайты, мобильные приложения). "
-    },
-    {
-        "_Vacancy__name": "Дата аналитик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121537799",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Уверенное владение языком программирования <highlighttext>Python</highlighttext> (от 1 года). Опыт работы с SQL и базами данных (например, PostgreSQL, MySQL). ",
-        "_Vacancy__responsibility": "Сбор, обработка и анализ данных для поддержки бизнес-процессов и принятия управленческих решений. Разработка отчетов и дэшбордов для визуализации результатов..."
-    },
-    {
-        "_Vacancy__name": "Аналитик данных (отчётность)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121533100",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "MS Excel, умение работать с OLAP-отчетами/сводными таблицами. Знание <highlighttext>python</highlighttext> (как преимущество). Опыт работы с Power BI (как преимущество). ",
-        "_Vacancy__responsibility": "Разработка новых отчетов, обновление существующих отчетов. Формирование отчетности и статистики отдела взыскания задолженности. Прогнозирование и моделирование ключевых показателей деятельности Управления. "
-    },
-    {
-        "_Vacancy__name": "Backend-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121569341",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Опыт работы с <highlighttext>Python</highlighttext> от 2 лет. Знание и опыт работы с базами данных PostgreSQL и MongoDB. Уверенное владение SQL...",
-        "_Vacancy__responsibility": "Разработка и поддержка серверной части. Работа с базами данных PostgreSQL и MongoDB: написание SQL-запросов, их анализ и оптимизация. "
-    },
-    {
-        "_Vacancy__name": "Python разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/120878110",
-        "_Vacancy__salary_from": 100000,
-        "_Vacancy__salary_to": 250000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Опыт коммерческой разработки от 1 года. Уверенное программирование на <highlighttext>Python</highlighttext>. Навык и опыт написания чистых SQL-запросов (без использования ORM). ",
-        "_Vacancy__responsibility": "Участвовать в обсуждении архитектурных решений. Проводить исследования. Писать методы БЛ на <highlighttext>Python</highlighttext>, сырые SQL-запросы. Мониторить нагрузку на сервисы. Офлайн."
-    },
-    {
-        "_Vacancy__name": "Интернет-маркетолог (медицина)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121107570",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Высшее образование (техническое, экономическое, маркетинг).",
-        "_Vacancy__responsibility": "Настройка, оптимизация и контроль профилей на ПроДокторов, НаПоправку, 2ГИС, Яндекс.Картах, Google Мой бизнес. Повышение рейтингов клиник через управление отзывами..."
-    },
-    {
-        "_Vacancy__name": "Senior Frontend-разработчик (React, Next.js)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121455801",
-        "_Vacancy__salary_from": 200000,
-        "_Vacancy__salary_to": 200000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Опыт Frontend разработки от 3-х лет, хорошее знание React. Хотя бы 1 законченный продукт в prod среде (желателен B...",
-        "_Vacancy__responsibility": "Проектировать и разрабатывать компоненты системы под высокую нагрузку. Разрабатывать компоненты для UI-kit. Разрабатывать и дорабатывать фичи (в рамках командной..."
-    },
-    {
-        "_Vacancy__name": "Специалист технической поддержки",
-        "_Vacancy__url": "https://hh.ru/vacancy/121141935",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "...BI системами и опыт построения Дашбордов. Опыт работы с инструментами Atlassian, Яндекс Трекер. Умение читать код на <highlighttext>python</highlighttext>, знание API.",
-        "_Vacancy__responsibility": "Ведение пользовательских заявок в системах ServiceDesk Jira и ServiceNow. Решение пользовательских заявок, эскалация их команде разработки и интеграция при необходимости. "
-    },
-    {
-        "_Vacancy__name": "Backend-разработчик",
-        "_Vacancy__url": "https://hh.ru/vacancy/121406078",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 200000,
-        "_Vacancy__currency_salary": "RUR",
-        "_Vacancy__requirement": "Опыт коммерческой backend-разработки от 3 лет. — Знание современных стеков (например: <highlighttext>Python</highlighttext> (Django/FastAPI), Node.js, Go, Java/Kotlin, PHP (Laravel...",
+        "_Vacancy__currency_salary": "KZT",
+        "_Vacancy__requirement": null,
         "_Vacancy__responsibility": null
     },
     {
-        "_Vacancy__name": "Аналитик данных (Data-аналитик)",
-        "_Vacancy__url": "https://hh.ru/vacancy/121509205",
-        "_Vacancy__salary_from": 0,
-        "_Vacancy__salary_to": 0,
-        "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Понимаешь принципы работы с данными и знаешь основы статистики. Имеешь опыт программирования на <highlighttext>Python</highlighttext> (библиотеки pandas, numpy, scipy, matplotlib, seaborn...",
-        "_Vacancy__responsibility": "Разрабатывал дашборды и отчеты для бизнеса. Проведение исследовательского анализа данных (EDA). Разработка SQL-запросов для извлечения и агрегации данных. "
+        "_Vacancy__name": "Слесарь-сборщик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121700936",
+        "_Vacancy__salary_from": 100000,
+        "_Vacancy__salary_to": 120000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "ПК - пользователь. Образование не ниже средне-специального.",
+        "_Vacancy__responsibility": "Крупноузловая сборка климатического оборудования. Комплектование заказов для клиентов."
     },
     {
-        "_Vacancy__name": "Junior Data Analyst",
-        "_Vacancy__url": "https://hh.ru/vacancy/118342994",
+        "_Vacancy__name": "Рабочий на производство",
+        "_Vacancy__url": "https://hh.ru/vacancy/120422691",
+        "_Vacancy__salary_from": 75000,
+        "_Vacancy__salary_to": 95000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "активная позиция.  желание работать.",
+        "_Vacancy__responsibility": "Работа на ПАО КамАЗ.  Сборка деталей."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121659252",
         "_Vacancy__salary_from": 0,
         "_Vacancy__salary_to": 0,
         "_Vacancy__currency_salary": "нет данных",
-        "_Vacancy__requirement": "Базовые знания SQL и (или) опыт анализа данных на <highlighttext>Python</highlighttext>. Знание основ математической статистики и математического аппарата анализа данных. ",
-        "_Vacancy__responsibility": "Проводить исследования, находить инсайты и объяснять аномалий в данных. Мониторить метрики, анализировать их динамику и составлять отчеты. Строить прогнозы. "
+        "_Vacancy__requirement": "Образование не ниже средне специального. Опыт работы от 1 года. Знание правила чтения чертежей, условных обозначений. Знание видов, назначений, устройств...",
+        "_Vacancy__responsibility": "Осуществление подготовки домовых санитарно-технических систем и оборудования к. Сезонной (осенне-зимней и весенне-летней) эксплуатации. Осуществление подготовки внутридомовой системы..."
+    },
+    {
+        "_Vacancy__name": "Сборщик двигателей летательных аппаратов",
+        "_Vacancy__url": "https://hh.ru/vacancy/121650092",
+        "_Vacancy__salary_from": 100000,
+        "_Vacancy__salary_to": 150000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы сборщиком двигателей летательных аппаратов обязателен. Разряд <highlighttext>слесаря</highlighttext>-сборщика (не ниже 4-го разряда). Умение работать с технической документацией.",
+        "_Vacancy__responsibility": "Сборка агрегатов, газогенератора, установка обвязки со сдачей ОТК. Сборка/разборка после испытаний. Сопровождение испытаний."
+    },
+    {
+        "_Vacancy__name": "Слесарь сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121686120",
+        "_Vacancy__salary_from": 0,
+        "_Vacancy__salary_to": 0,
+        "_Vacancy__currency_salary": "нет данных",
+        "_Vacancy__requirement": "Опыт аналогичной работы от 5 лет. Профессиональное владение знаниями в облости работы всех систем жизнеобеспечения зданий сооружений. Знания сантехнического оборудования...",
+        "_Vacancy__responsibility": "Контроль работы всех систем водоснабжения и водоподготовки а так же работы ИТП, знание работу систем и оборудования здания бизнесцентра."
+    },
+    {
+        "_Vacancy__name": "Слесарь газовой службы",
+        "_Vacancy__url": "https://hh.ru/vacancy/117953282",
+        "_Vacancy__salary_from": 0,
+        "_Vacancy__salary_to": 130000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Мобильность, энергичность, стрессоустойчивость, ответственность, коммуникабельность. Рассматриваются кандидаты без опыта работы.",
+        "_Vacancy__responsibility": "Техническая проверка внутриквартирного газового оборудования многоквартирных домов. Визуально измерительный контроль внутренних газопроводов. Подготовка актов техобслуживания ВКГО. Взаимодействие с жильцами жилых..."
+    },
+    {
+        "_Vacancy__name": "Дежурный слесарь-сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121712501",
+        "_Vacancy__salary_from": 0,
+        "_Vacancy__salary_to": 70000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Знание систем и оборудования: водоснабжения, водоотведения, отопления. Умение работать сопутствующим сантехническим и электрическим инструментом для устранение аварийных неполадок на объекте. ",
+        "_Vacancy__responsibility": "Знание сантехнического и отопительного оборудования, ведение технической документации, журналов."
+    },
+    {
+        "_Vacancy__name": "Дежурный слесарь-сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121547878",
+        "_Vacancy__salary_from": 0,
+        "_Vacancy__salary_to": 75000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Знать порядок обслуживания и ремонта узлов санитарно-технических систем центрального отопления, водоснабжения, канализации и водостоков. Требования: Опыт работы <highlighttext>слесарем</highlighttext>-сантехником...",
+        "_Vacancy__responsibility": "Знание схемы теплоснабжения, горячего водоснабжения, пожарно-хозяйственного водопровода, дренчерного пожаротушении, спринклерного пожаротушения, сбора фекальных, дренажных, сточных и пожарных вод, напорной..."
+    },
+    {
+        "_Vacancy__name": "Слесарь механосборочных работ/Слесарь МСР",
+        "_Vacancy__url": "https://hh.ru/vacancy/121548768",
+        "_Vacancy__salary_from": 152000,
+        "_Vacancy__salary_to": 177000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы по профессии от 3-х лет. - Наличие записи по профессии в трудовой книжке. - Умение читать чертежи.",
+        "_Vacancy__responsibility": "Сборка, притирка, нарезание резьбы. - Подгонка, испытание клапанов, задвижек и любой трубопроводной арматуры. - Другие сопутствующие задачи."
+    },
+    {
+        "_Vacancy__name": "Тракторист-слесарь/сервисный инженер",
+        "_Vacancy__url": "https://hh.ru/vacancy/121146520",
+        "_Vacancy__salary_from": 2500,
+        "_Vacancy__salary_to": 5500,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "Навык по ремонту сельскохозяйственной техники. Наличие водительского удостоверения В. Способность работать в режиме многозадачности.",
+        "_Vacancy__responsibility": "Обслуживание, ремонт сельскохозяйственной техники."
+    },
+    {
+        "_Vacancy__name": "Водитель категории В на рейсы Гомель-Минск",
+        "_Vacancy__url": "https://hh.ru/vacancy/121604014",
+        "_Vacancy__salary_from": 1900,
+        "_Vacancy__salary_to": 3200,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "Водительское удостоверение категории В. Желателен опыт работы на микроавтобусах.",
+        "_Vacancy__responsibility": "Выезд <highlighttext>слесарей</highlighttext> для ремонта в случае нештатных ситуаций во время рейса."
+    },
+    {
+        "_Vacancy__name": "Слесарь - сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121649152",
+        "_Vacancy__salary_from": 85000,
+        "_Vacancy__salary_to": 90000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы приветствуется. Среднее специальное образование.",
+        "_Vacancy__responsibility": "Получает задание на выполнение работ по обслуживанию здания. Устранение аварий в санитарно-технических системах и оборудовании."
+    },
+    {
+        "_Vacancy__name": "Электросварщик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121544051",
+        "_Vacancy__salary_from": 120000,
+        "_Vacancy__salary_to": 140000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Ответственность в работе и исполнительность. Умение читать машиностроительные чертежи. Знать: Особенности правил резки и сварки. Устройство и особенности использования сварочных...",
+        "_Vacancy__responsibility": "Проведение подготовительных работ перед сваркой. Затирка швов. Проверка и настройка оборудования, необходимого для работы. Знание устройства газовых баллонов. "
+    },
+    {
+        "_Vacancy__name": "Слесарь - сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121652685",
+        "_Vacancy__salary_from": 135000,
+        "_Vacancy__salary_to": 135000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы от 3 лет в аналогичной должности. Знание современных технологий и материалов. Приветствуется знание водоподготовки, котельного оборудования, оборудования автомойки...",
+        "_Vacancy__responsibility": "Контроль за техническим состоянием смонтированных инженерных систем загородного дома (водопонижения, отопления, водоснабжения, систем ГВС и ХВС, канализации, сантехники). "
+    },
+    {
+        "_Vacancy__name": "Мехатроник пищевого оборудования",
+        "_Vacancy__url": "https://hh.ru/vacancy/120916592",
+        "_Vacancy__salary_from": 2350,
+        "_Vacancy__salary_to": 2350,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "У вас есть опыт наладки автоматических, полуавтоматических линий. Опыт работы на пищевом производстве (приветствуется, но не обязательно). Знаете устройства и...",
+        "_Vacancy__responsibility": "Выполнение операционных задач на линии, наладка/переналадка, ремонт и обслуживание оборудования. Инспекция и профилактика оборудования, устранение мелких неисправностей в ходе..."
+    },
+    {
+        "_Vacancy__name": "Слесарь механосборочных работ",
+        "_Vacancy__url": "https://hh.ru/vacancy/121515423",
+        "_Vacancy__salary_from": 60000,
+        "_Vacancy__salary_to": 80000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы на производстве и наличие профессионального технического образования будет Вашим преимуществом.",
+        "_Vacancy__responsibility": "В зависимости от участка (Слесарная обработка деталей, Разметка простых деталей, Зачистка, сверловка труб, Правка конвекторов, Работа на опрессовочном оборудовании). "
+    },
+    {
+        "_Vacancy__name": "Слесарь МСР 5-ого разряда",
+        "_Vacancy__url": "https://hh.ru/vacancy/121711129",
+        "_Vacancy__salary_from": 100000,
+        "_Vacancy__salary_to": 100000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Среднее общее; среднее профессиональное образование. Стаж работы не менее 2-х лет <highlighttext>слесарем</highlighttext> МСР 4-го разряда.",
+        "_Vacancy__responsibility": "Изготовление деталей и сборочных единиц. Заточка слесарного инструмента. Правка и рихтовка металлоконструкций. Гибка листового и профильного материала на гидравлических и..."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121679330",
+        "_Vacancy__salary_from": 120000,
+        "_Vacancy__salary_to": 120000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы <highlighttext>слесарем</highlighttext>-сантехником от 3-х лет.",
+        "_Vacancy__responsibility": "Монтаж инженерных систем (водоснабжения, канализации, теплоснабжения). Монтаж сантехнических приборов. Слесарно-сантехнические работы."
+    },
+    {
+        "_Vacancy__name": "Рабочий производства",
+        "_Vacancy__url": "https://hh.ru/vacancy/121676183",
+        "_Vacancy__salary_from": 70000,
+        "_Vacancy__salary_to": 80000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Ответственного подхода к работе. Умения работать с ручным инструментом.",
+        "_Vacancy__responsibility": "Заниматься сборкой вентиляционного оборудования и фасонных элементов. Работать ручным, пневмо и электроинструментом."
+    },
+    {
+        "_Vacancy__name": "Начальник службы автотранспорта и механизации",
+        "_Vacancy__url": "https://hh.ru/vacancy/121714640",
+        "_Vacancy__salary_from": 76000,
+        "_Vacancy__salary_to": 76000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Высшее профессиональное (Автомобили и автомобильное хозяйство) образование и стаж работы на руководящих должностях не менее 5 лет. Уверенный пользователь ПК. ",
+        "_Vacancy__responsibility": "Обязанности: Организация работы команды водителей, механиков, <highlighttext>слесарей</highlighttext> и склада запасных частей (55 человек личного состава). Организация эксплуатации грузовой, легковой, дорожно..."
+    },
+    {
+        "_Vacancy__name": "Руководитель эксплуатационной службы",
+        "_Vacancy__url": "https://hh.ru/vacancy/121708408",
+        "_Vacancy__salary_from": 120000,
+        "_Vacancy__salary_to": 120000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Высшее профессиональное образование, аналогичный опыт работы. Знание нормативных и методических материалов по организации ремонта оборудования, зданий и сооружений, материалов по...",
+        "_Vacancy__responsibility": "Руководство ремонтной бригадой (электрослесари, <highlighttext>слесари</highlighttext>-ремонтники). Организация безопасной, технически правильной эксплуатации, технического обслуживания и своевременного ремонта оборудования и систем жизнеобеспечения..."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сварщик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121513538",
+        "_Vacancy__salary_from": 7000000,
+        "_Vacancy__salary_to": 7000000,
+        "_Vacancy__currency_salary": "UZS",
+        "_Vacancy__requirement": "Умение читать и понимать чертежи. Знание ГОСТов по сварочным операциям. Аккуратность. Ответственность.",
+        "_Vacancy__responsibility": "Сварка габаритных металлоконструкций. Сборка механизмов. Работа на автоматической сварочной линии."
+    },
+    {
+        "_Vacancy__name": "Оператор установок по приготовлению химических реагентов",
+        "_Vacancy__url": "https://hh.ru/vacancy/121716725",
+        "_Vacancy__salary_from": 0,
+        "_Vacancy__salary_to": 0,
+        "_Vacancy__currency_salary": "нет данных",
+        "_Vacancy__requirement": "образование: техническое и профессиональное. - IIIгр Электробезопасности (теория, практика). - Работа на погрузчике (желательно).",
+        "_Vacancy__responsibility": "контроль параметров химических процессов. - контроль качества готовой продукции. - разгрузка продукции. - складские операции. - помощь в работах <highlighttext>слесарей</highlighttext>, сварщиков, электриков при необходимости."
+    },
+    {
+        "_Vacancy__name": "Помощник по хозяйству",
+        "_Vacancy__url": "https://hh.ru/vacancy/121278984",
+        "_Vacancy__salary_from": 180000,
+        "_Vacancy__salary_to": 180000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Навыки при мелком ремонте и обслуживании - техника и электрика, сантехника, <highlighttext>слесаря</highlighttext>, столяра - плотника, садовника. Владение всеми современными средствами по уходу...",
+        "_Vacancy__responsibility": "Уборка: сухая и влажная уборка поверхностей, поддержание порядка в доме, санитарного и технического состояния. Мойка окон. Уход за одеждой – стирка..."
+    },
+    {
+        "_Vacancy__name": "Слесарь механосборочных работ / сборщик автофургонов",
+        "_Vacancy__url": "https://hh.ru/vacancy/121651521",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 150000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы приветствуется. Владение электро и пневмо инструментом.",
+        "_Vacancy__responsibility": "Сборка тентованных фургонов и промтоварных фургонов."
+    },
+    {
+        "_Vacancy__name": "Оператор производственной линии",
+        "_Vacancy__url": "https://hh.ru/vacancy/121300755",
+        "_Vacancy__salary_from": 170000,
+        "_Vacancy__salary_to": 250000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы на аналогичной должности. - Ответственность, внимательность, желание работать.",
+        "_Vacancy__responsibility": "Работа на конвейерной линии. - Проведение сборочных/заправочных/регулировочных операций. - Проведение контрольных операций согласно технологическому процессу."
+    },
+    {
+        "_Vacancy__name": "Слесарь",
+        "_Vacancy__url": "https://hh.ru/vacancy/120697157",
+        "_Vacancy__salary_from": 0,
+        "_Vacancy__salary_to": 0,
+        "_Vacancy__currency_salary": "нет данных",
+        "_Vacancy__requirement": "Среднее профессиональное образование (техническое) или опыт работы <highlighttext>слесарем</highlighttext> от 1 года. Возможно обучение для кандидатов с техническим образованием. ",
+        "_Vacancy__responsibility": "Выполнение слесарных работ в цехе металлообработки. Сборка, обработка, доработка металлических деталей. Работа с ручным, пневмо- и электроинструментом."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121554983",
+        "_Vacancy__salary_from": 0,
+        "_Vacancy__salary_to": 0,
+        "_Vacancy__currency_salary": "нет данных",
+        "_Vacancy__requirement": "Опыт работы от 1 года.",
+        "_Vacancy__responsibility": "Техническое обслуживание и ремонт сантехнического оборудования и устройств систем горячего и холодного водоснабжения, отопления, водоотведения и канализации, систем парораспределения и..."
+    },
+    {
+        "_Vacancy__name": "Ученик слесаря механо-сборочных работ",
+        "_Vacancy__url": "https://hh.ru/vacancy/121188691",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 150000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Дисциплинированность, ответственность, желание зарабатывать. Готовность обучится Сборке узлов и механизмов средней сложности. Преимуществом будет: опыт работы на производстве, умение пользоваться...",
+        "_Vacancy__responsibility": null
+    },
+    {
+        "_Vacancy__name": "Водитель категории С",
+        "_Vacancy__url": "https://hh.ru/vacancy/117692529",
+        "_Vacancy__salary_from": 2800,
+        "_Vacancy__salary_to": 4500,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "Опыт работы водителем на автомобилях самосвал MAZ-MAN. МАЗ, КАМАЗ,ДАФ. Дисциплинированность. Навыки <highlighttext>слесаря</highlighttext> желательно. Готовность к сверхурочной работе за...",
+        "_Vacancy__responsibility": "Выполнение заявок заказчиков по вывозу строительных отходов. Обеспечение работоспособности ТС. Работа на автомобиле-бункеровозе."
+    },
+    {
+        "_Vacancy__name": "Начальник автоколонны / Главный механик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121559331",
+        "_Vacancy__salary_from": 150000,
+        "_Vacancy__salary_to": 150000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Подтвержденный успешный опыт работы Руководителем автоколонны в транспортной компании (с собственным грузовым парком) от пяти лет. Опыт управления персоналом и...",
+        "_Vacancy__responsibility": "Полное управление работой автосервиса, включая планирование, распределение загрузки цеха и контроль за выполнением работ механиками и <highlighttext>слесарями</highlighttext>. Управление автопарком. "
+    },
+    {
+        "_Vacancy__name": "Главный механик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121663509",
+        "_Vacancy__salary_from": 200000,
+        "_Vacancy__salary_to": 200000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Высшее профессиональное (техническое) образование и стаж работы по специальности на инженерно-технических и руководящих должностях в соответствующей профилю предприятия отрасли...",
+        "_Vacancy__responsibility": "...ремонтов, подбор и монтаж нового оборудования, руководство коллективом механиков и <highlighttext>слесарей</highlighttext>. Ведение необходимой тех. документации. Работа с Ространснадзор и Росавтодор..."
+    },
+    {
+        "_Vacancy__name": "Слесарь-ремонтник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121691687",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 80000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы с промышленным оборудованием.",
+        "_Vacancy__responsibility": "Техническое обслуживание оборудования. Ремонт оборудования."
+    },
+    {
+        "_Vacancy__name": "Слесарь по сборке металлоконструкций (слесарь механосборочных работ)",
+        "_Vacancy__url": "https://hh.ru/vacancy/121620624",
+        "_Vacancy__salary_from": 3000,
+        "_Vacancy__salary_to": 5000,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "Умение работать с шлифмашинами и другими инструментами для обработки металла. Обучаемость, готовность работать и повышать свой профессиональный уровень. ",
+        "_Vacancy__responsibility": "Комплекс работ по изготовлению изделий из металла, металлоконструкций. Подготовка заготовок для сварочных работ, зачистка швов и другие слесарные работы. "
+    },
+    {
+        "_Vacancy__name": "Водитель",
+        "_Vacancy__url": "https://hh.ru/vacancy/121529045",
+        "_Vacancy__salary_from": 90000,
+        "_Vacancy__salary_to": 130000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Наличие водительского удостоверения категории \"С\", желание работать, ответственное отношение к работе.",
+        "_Vacancy__responsibility": "Работа на грузовых автомобилях бункеровоз, мультилифт (категория \"С\") в городе Дмитров Московской области. Осуществление управления автомобилями ГАЗон Нектс, МАЗ, КАМАЗ..."
+    },
+    {
+        "_Vacancy__name": "Помощник дефектоскописта",
+        "_Vacancy__url": "https://hh.ru/vacancy/121711499",
+        "_Vacancy__salary_from": 0,
+        "_Vacancy__salary_to": 0,
+        "_Vacancy__currency_salary": "нет данных",
+        "_Vacancy__requirement": "Готовность обучаться различным видам дефектоскопии: ВИК, МПД, КД, УЗК. Желателен опыт работы <highlighttext>слесарем</highlighttext>, стропальщиком. Техническое образование.",
+        "_Vacancy__responsibility": "Подготовка оборудования к проведению дефектоскопии: зачистка, мойка, шлифовка, правка резьбы, нанесение капиллярной суспензии и др. Разгрузка-погрузка, перемещение оборудования по..."
+    },
+    {
+        "_Vacancy__name": "Помощник по хозяйству",
+        "_Vacancy__url": "https://hh.ru/vacancy/121278422",
+        "_Vacancy__salary_from": 180000,
+        "_Vacancy__salary_to": 180000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Навыки при мелком ремонте и обслуживании - техника и электрика, сантехника, <highlighttext>слесаря</highlighttext>, столяра - плотника, садовника. Владение всеми современными средствами по уходу...",
+        "_Vacancy__responsibility": "Уборка: сухая и влажная уборка поверхностей, поддержание порядка в доме, санитарного и технического состояния. Мойка окон. Уход за одеждой – стирка..."
+    },
+    {
+        "_Vacancy__name": "Разборщик автомобилей в Японию",
+        "_Vacancy__url": "https://hh.ru/vacancy/121649578",
+        "_Vacancy__salary_from": 1000,
+        "_Vacancy__salary_to": 1500,
+        "_Vacancy__currency_salary": "USD",
+        "_Vacancy__requirement": "<highlighttext>Слесарь</highlighttext>-ремонтник, нацеленные на результат (зарплата зависит от количества выполненной работы). Опыт работы в автомобильной сфере приветствуется!",
+        "_Vacancy__responsibility": "Разбор автомобилей по запчастям. Сортировка и погрузка в контейнер."
+    },
+    {
+        "_Vacancy__name": "Монтажник работа в Омске",
+        "_Vacancy__url": "https://hh.ru/vacancy/121554322",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 100000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы от 2 лет. Действующие квалификационное удостоверение (монтажник МК, ЖБК,<highlighttext>слесарь</highlighttext>).",
+        "_Vacancy__responsibility": "Монтаж, демонтаж металлоконструкций. Зачистка сварных швов. Соблюдение техники безопасности. Сборка лесов. Выполнение работ согласно техническому заданию."
+    },
+    {
+        "_Vacancy__name": "Мастер универсал",
+        "_Vacancy__url": "https://hh.ru/vacancy/121459698",
+        "_Vacancy__salary_from": 8000,
+        "_Vacancy__salary_to": 8000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Желание зарабатывать и развиваться. Ответственность. Коммуникабельность. Четко поставленная речь.",
+        "_Vacancy__responsibility": null
+    },
+    {
+        "_Vacancy__name": "Слесарь механосборочных работ",
+        "_Vacancy__url": "https://hh.ru/vacancy/120712382",
+        "_Vacancy__salary_from": 100000,
+        "_Vacancy__salary_to": 100000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Умение читать чертежи. Знание технологии обработки металла. Умение работать с нержавеющей сталью. Владение электроинструментом. Умение работать на станках типа лентопил...",
+        "_Vacancy__responsibility": "Самостоятельная сборка ёмкостного оборудования. Обработка и своевременный выпуск продукции (оборудования)."
+    },
+    {
+        "_Vacancy__name": "Начальник производства",
+        "_Vacancy__url": "https://hh.ru/vacancy/121562112",
+        "_Vacancy__salary_from": 150000,
+        "_Vacancy__salary_to": 150000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Высшее техническое образование. Опыт работы на руководящих должностях в производственной сфере от 5 лет. Понимание производственных процессов (металлообработка, сварка, слесарные...",
+        "_Vacancy__responsibility": "Организация и контроль производственного процесса (операторы станков, сварщики, <highlighttext>слесари</highlighttext>, маляры). Личное участие в производственных процессах: глубокое погружение в технологии, анализ..."
+    },
+    {
+        "_Vacancy__name": "Мастер участка",
+        "_Vacancy__url": "https://hh.ru/vacancy/121679317",
+        "_Vacancy__salary_from": 0,
+        "_Vacancy__salary_to": 0,
+        "_Vacancy__currency_salary": "нет данных",
+        "_Vacancy__requirement": "Умение работать с инструментами. Ответственность и организованность.",
+        "_Vacancy__responsibility": "Организация и контроль работы участка по установке заборов. Управление подчиненным <highlighttext>слесарем</highlighttext>. Обеспечение выполнения планов и соблюдение стандартов качества. "
+    },
+    {
+        "_Vacancy__name": "Монтажник сантехнических систем",
+        "_Vacancy__url": "https://hh.ru/vacancy/121344860",
+        "_Vacancy__salary_from": 300000,
+        "_Vacancy__salary_to": 300000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы монтажником СТС или <highlighttext>слесарем</highlighttext>-сантехником от 1 года. Ответственность, исполнительность. Наличие образования и подтверждающих документов для выполнения работ. ",
+        "_Vacancy__responsibility": "Монтаж внутренних сантехнических систем (ГВС, ХВС, стояки и разводки в дома). Работа на строительных объектах работодателя."
+    },
+    {
+        "_Vacancy__name": "Слесарь сборщик МК",
+        "_Vacancy__url": "https://hh.ru/vacancy/121473051",
+        "_Vacancy__salary_from": 160000,
+        "_Vacancy__salary_to": 160000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт рабoты. Знание чеpтежeй. Удoстовepeниe или пoдтвеpждение в трудовoй книжке.",
+        "_Vacancy__responsibility": "Чтение чертежей, сборка сложных конструкций."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121725620",
+        "_Vacancy__salary_from": 81000,
+        "_Vacancy__salary_to": 99000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Образование среднее профессиональное. Опыт выполнения аналогичных обязанностей от 5-х лет. Удостоверение 5 разряд.",
+        "_Vacancy__responsibility": "Обслуживание и ремонт существующих линий предприятия: ХВС, ГВС, отопление, ливневая и сточная канализация. Монтаж, демонтаж и ремонт запорной арматуры, раковин..."
+    },
+    {
+        "_Vacancy__name": "Слесарь по сборке МК в г. Екатеринбург",
+        "_Vacancy__url": "https://hh.ru/vacancy/121628125",
+        "_Vacancy__salary_from": 170000,
+        "_Vacancy__salary_to": 170000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Сборка металлоконструкций по чертежам, опыт работы обязателен от 1 года. Также умение пользоваться пневмоинструментом (зачистка торцов, кромок и т.д.). ",
+        "_Vacancy__responsibility": null
+    },
+    {
+        "_Vacancy__name": "Слесарь МСР (сборка датчиков температуры)",
+        "_Vacancy__url": "https://hh.ru/vacancy/121558776",
+        "_Vacancy__salary_from": 0,
+        "_Vacancy__salary_to": 0,
+        "_Vacancy__currency_salary": "нет данных",
+        "_Vacancy__requirement": "Умение читать чертежи. Приветствуется опыт работы на пневмо- и гидроиспытаниях, опыт работы на лазерной сварке.",
+        "_Vacancy__responsibility": "Слесарные работы любой сложности. Сборка датчиков температуры с применением ручного, электрического и пневматического инструмента. Проведение пневматических, гидравлических испытаний. Упаковка изделий."
+    },
+    {
+        "_Vacancy__name": "Разборщик автомобилей в Японию",
+        "_Vacancy__url": "https://hh.ru/vacancy/121644284",
+        "_Vacancy__salary_from": 1000,
+        "_Vacancy__salary_to": 1500,
+        "_Vacancy__currency_salary": "USD",
+        "_Vacancy__requirement": "<highlighttext>Слесарь</highlighttext>-ремонтник, нацеленные на результат (зарплата зависит от количества выполненной работы). Опыт работы в автомобильной сфере приветствуется!",
+        "_Vacancy__responsibility": "Разбор автомобилей по запчастям. Сортировка и погрузка в контейнер."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сборщик (оборудование, электрооборудование и трансформаторы)",
+        "_Vacancy__url": "https://hh.ru/vacancy/121619002",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 100000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Средне-специальное или высшее техническое образование. Навыки чтения чертежей деталей и сборочных чертежей. Предпочтение работникам электротехнической отрасли, сборщикам масляных трансформаторов...",
+        "_Vacancy__responsibility": "Сборка, настройка и регулировка узлов и механизмов различной сложности, в том числе масляных трансформаторов. Изготовление деталей из металла и электроизоляционных..."
+    },
+    {
+        "_Vacancy__name": "Техник универсал по ТО зданий",
+        "_Vacancy__url": "https://hh.ru/vacancy/121632674",
+        "_Vacancy__salary_from": 110000,
+        "_Vacancy__salary_to": 200000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Исполнительность. Доброжелательность. Обучаемость. Вежливость.",
+        "_Vacancy__responsibility": "Примеры заявок которые размещают в рабочей группе Ватс ап: Сантехника: #отремонтировать систему подачи воды в унитазе. #установить/заменить в смесители..."
+    },
+    {
+        "_Vacancy__name": "Слесарь МСР",
+        "_Vacancy__url": "https://hh.ru/vacancy/121602051",
+        "_Vacancy__salary_from": 2500,
+        "_Vacancy__salary_to": 3500,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "Приветствуем опыт работы по сборке изделий из металлоконструкций. Готовность в кратчайшие сроки пройти мед. комиссию. Обязательно наличие навыка чтения сборочных...",
+        "_Vacancy__responsibility": "Слесарные работы: сборка, сверление, нарезание резьбы и пр. Сборочные работы (сборка быстровозводимых зданий, киосков)."
+    },
+    {
+        "_Vacancy__name": "Слесарь МСР",
+        "_Vacancy__url": "https://hh.ru/vacancy/121144042",
+        "_Vacancy__salary_from": 3200,
+        "_Vacancy__salary_to": 5500,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "Навыки работы с металлом, в том числе нерж. сталью. Умение работать с электроинструментом. Хорошее качество изделий. Ответственный подход.",
+        "_Vacancy__responsibility": "Сборка технологического оборудования в молочной промышленности. Шлифовка поверхностей, резка, сверление, мехобработка. Работа только с нержавеющей сталью."
+    },
+    {
+        "_Vacancy__name": "Сварщик-слесарь-монтажник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121645427",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 250000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Ответственность и внимательность к деталям. Умение работать в команде.",
+        "_Vacancy__responsibility": "Выполнение сварочных работ по монтажу систем отопления и водоснабжения. Подготовка и сборка конструкций для сварки. Контроль качества выполненных работ. "
+    },
+    {
+        "_Vacancy__name": "Слесарь-сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121707208",
+        "_Vacancy__salary_from": 115000,
+        "_Vacancy__salary_to": 115000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Образование не ниже среднего специального. Опыт работы в сфере обслуживания зданий и сооружений (многоквартирные жилые комплексы) будет преимуществом.",
+        "_Vacancy__responsibility": "Выполнение работ по заявкам от собственников ЖК. Участие в проведении планово-предупредительных работ закрепленного оборудования. Обслуживание и ремонт оборудования инженерных..."
+    },
+    {
+        "_Vacancy__name": "Ученик токаря-станочника широкого профиля. 70 т.р-150 т.р",
+        "_Vacancy__url": "https://hh.ru/vacancy/119296944",
+        "_Vacancy__salary_from": 70000,
+        "_Vacancy__salary_to": 150000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "...широкого профиля\", \"токарь-универсал\", \"технология машиностроения\". Опыт работы <highlighttext>слесарем</highlighttext>-ремонтником, <highlighttext>слесарем</highlighttext>-инструментальщиком или <highlighttext>слесарем</highlighttext> МСР. Обязательно умение читать машиностроительные чертежи!",
+        "_Vacancy__responsibility": "Производство МСЧ на сверлильных, шлифовальных, универсальных станках согласно техзаданию и конструкторской документации."
+    },
+    {
+        "_Vacancy__name": "Сервисный инженер / слесарь",
+        "_Vacancy__url": "https://hh.ru/vacancy/121654562",
+        "_Vacancy__salary_from": 130000,
+        "_Vacancy__salary_to": 130000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Высшее или среднее техническое образование. Техническая грамотность, знание электрики и гидравлики - преимущество. Опытный пользователь ПК, офисных программ.",
+        "_Vacancy__responsibility": "Диагностика и ремонт дорожно-строительной техники в ремонтной зоне и на территории клиента. Своевременное выполнение и сдача заказ-нарядов. "
+    },
+    {
+        "_Vacancy__name": "Слесарь-сборщик летательных аппаратов",
+        "_Vacancy__url": "https://hh.ru/vacancy/121664208",
+        "_Vacancy__salary_from": 120000,
+        "_Vacancy__salary_to": 120000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Навыки слесарной и механической обработки несущих систем ЛА. Опыт обработки и создания композитных конструкций ЛА. Уверенные навыки работы с ручным...",
+        "_Vacancy__responsibility": "Слесарная и механическая обработка несущих систем БВС. Сборка БВС. Подгонка элементов несущей системы БВС."
+    },
+    {
+        "_Vacancy__name": "Сантехник (САО)",
+        "_Vacancy__url": "https://hh.ru/vacancy/121335224",
+        "_Vacancy__salary_from": 150000,
+        "_Vacancy__salary_to": 200000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт по обслуживанию и ремонту сантехнического оборудования. — Опыт в установке нового сантехнического оборудования. — Опыт по разводке труб. — Знания ГОСТ, СНиП.",
+        "_Vacancy__responsibility": "Выполнение сантехнических работ (квартиры и частные дома). — Установка/ремонт оборудования (сантехнического и отопительного)."
+    },
+    {
+        "_Vacancy__name": "Слесарь механосборочных работ (с доставкой и ДМС)",
+        "_Vacancy__url": "https://hh.ru/vacancy/121648279",
+        "_Vacancy__salary_from": 85000,
+        "_Vacancy__salary_to": 100000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Умение читать технические чертежи и знание технологии металлов. Опыт в слесарной обработке, маркировке металлов, термообработке и сварке. Знание инструментов и...",
+        "_Vacancy__responsibility": "Cборка и регулировка машин и механизмов для сталеплавильных цехов. Подгонка, соединение и крепление деталей. Балансировка деталей, устранение дефектов сборки. "
+    },
+    {
+        "_Vacancy__name": "Разнорабочий",
+        "_Vacancy__url": "https://hh.ru/vacancy/120973096",
+        "_Vacancy__salary_from": 1700,
+        "_Vacancy__salary_to": 1700,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "Опыт работы от 2 лет. Опыт работы по строительным профессиям (<highlighttext>слесарь</highlighttext>-сантехник/ремонтник, дорожный рабочий и т.д). ",
+        "_Vacancy__responsibility": "Периодический осмотр технического состояния обслуживаемых зданий, сооружений, оборудования и механизмов, их техническое обслуживание и текущий ремонт с выполнением различных видов..."
+    },
+    {
+        "_Vacancy__name": "Слесарь МСР",
+        "_Vacancy__url": "https://hh.ru/vacancy/121551725",
+        "_Vacancy__salary_from": 2700,
+        "_Vacancy__salary_to": 3200,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": "Требования: опыт работы от 1-3-х лет <highlighttext>слесарем</highlighttext> механосборочных работ.",
+        "_Vacancy__responsibility": "Обязанности: сборка сельскохозяйственной техники (кормораздатчиков)."
+    },
+    {
+        "_Vacancy__name": "HR-менеджер / Менеджер по персоналу",
+        "_Vacancy__url": "https://hh.ru/vacancy/121525927",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 150000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "опыт в HR от 3 лет (желательно в малом или среднем бизнесе). - навыки массового подбора линейного и офисного персонала. - ",
+        "_Vacancy__responsibility": "полный цикл подбора персонала: менеджеры по продажам, <highlighttext>слесари</highlighttext>, мастера приёмки, бухгалтерия и др. - проведение первичных собеседований, отбор кандидатов. - "
+    },
+    {
+        "_Vacancy__name": "Слесарь-ремонтник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121685140",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 120000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": null,
+        "_Vacancy__responsibility": "Ремонт запорной арматуры (задвижек, вентелей, клапанов), настройка предохранительной арматуры, опрессовка. Ремонт клапанов КИПиА, электро и пневмо приводов."
+    },
+    {
+        "_Vacancy__name": "Оператор производственной линии / Рабочий на производство",
+        "_Vacancy__url": "https://hh.ru/vacancy/121652240",
+        "_Vacancy__salary_from": 95000,
+        "_Vacancy__salary_to": 110000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Рассматриваете простую, стабильную и понятную работу. Ранее работали на таких позициях, как:",
+        "_Vacancy__responsibility": "Сборка стеклопакетов на автоматизированных производственных линиях. Поддержание порядка на рабочем месте. Контроль качества на своём участке."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сборщик",
+        "_Vacancy__url": "https://hh.ru/vacancy/120368669",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 80000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "ОБЯЗАТЕЛЬНО умение читать чертежи. Умение самостоятельно принимать решение. Инициативность.",
+        "_Vacancy__responsibility": "Сборка емкостного оборудования. Чтение чертежей. Работа электро, пневмоинструментом. Работа с грузоподъемными механизмами."
+    },
+    {
+        "_Vacancy__name": "Слесарь МСР",
+        "_Vacancy__url": "https://hh.ru/vacancy/121389034",
+        "_Vacancy__salary_from": 2800,
+        "_Vacancy__salary_to": 2800,
+        "_Vacancy__currency_salary": "BYR",
+        "_Vacancy__requirement": null,
+        "_Vacancy__responsibility": "Качественное выполнение поставленной задачи. Должностные обязанности: Сверловка, зачистка, сборка металлоконструкций. Ленточная пила. Производство строительных и декоративных конструкций."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121671865",
+        "_Vacancy__salary_from": 300000,
+        "_Vacancy__salary_to": 300000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Исполнительность. Чистоплотность.",
+        "_Vacancy__responsibility": null
+    },
+    {
+        "_Vacancy__name": "Слесарь механосборочных работ",
+        "_Vacancy__url": "https://hh.ru/vacancy/119864389",
+        "_Vacancy__salary_from": 85000,
+        "_Vacancy__salary_to": 85000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Среднее профессиональное образование. Опыт работы от года. Обучаемость, умение работать в команде.",
+        "_Vacancy__responsibility": "Слесарная обработка деталей с помощью ручных приспособлений. Устранение дефектов. Управление подъемно-транспортным оборудованием с пола. Строповка и увязка грузов для..."
+    },
+    {
+        "_Vacancy__name": "Слесарь механосборочных работ",
+        "_Vacancy__url": "https://hh.ru/vacancy/121620574",
+        "_Vacancy__salary_from": 110000,
+        "_Vacancy__salary_to": 200000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "среднее профессиональное образование.",
+        "_Vacancy__responsibility": "Завод располагает собственными техническими службами, обеспечивающими сопровождение производства выпускаемых изделий спецтехники. В связи с расширением и ростом производства, необходимы сотрудники! "
+    },
+    {
+        "_Vacancy__name": "Сотрудник на производство, г.Нижний Новгород",
+        "_Vacancy__url": "https://hh.ru/vacancy/121027671",
+        "_Vacancy__salary_from": 90000,
+        "_Vacancy__salary_to": 160000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Без опыта работы.",
+        "_Vacancy__responsibility": "Сборка авто. Сборка кабин."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сварщик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121653553",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 80000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": null,
+        "_Vacancy__responsibility": "Порезка, зачистка поверхности профильной трубы, металлических изделий, заготовок. Рубка и гибка проволоки. Сварка металлоконструкций из профильной трубы полуавтоматом."
+    },
+    {
+        "_Vacancy__name": "Разнорабочий на производство (м.Волковская)",
+        "_Vacancy__url": "https://hh.ru/vacancy/119834829",
+        "_Vacancy__salary_from": 65000,
+        "_Vacancy__salary_to": 85000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Желание работать и зарабатывать. Вакансия с обучением. Без требований к образованию и квалификации. Ответственность, внимательность, дисциплинированность.",
+        "_Vacancy__responsibility": "Помощь операторам при выполнении работ на слесарном участке, на участке упаковки, участке лазерной резки ,мебельном участке, на складе. "
+    },
+    {
+        "_Vacancy__name": "Наладчик технологического оборудования (Слесарь)",
+        "_Vacancy__url": "https://hh.ru/vacancy/121016796",
+        "_Vacancy__salary_from": 100000,
+        "_Vacancy__salary_to": 100000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Умение обращаться со сварочным оборудованием, будет вашим преимуществом .",
+        "_Vacancy__responsibility": "Ремонт, настройка и техническое обслуживание производственного технологического оборудования (экструдер, электропечь, конвейеры, насосы, компрессор)."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сборщик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121713762",
+        "_Vacancy__salary_from": 300000,
+        "_Vacancy__salary_to": 313000,
+        "_Vacancy__currency_salary": "KZT",
+        "_Vacancy__requirement": "Техническое образование. Опыт работы от 2 лет.",
+        "_Vacancy__responsibility": "Слесарная обработка деталей. Соединение частей, агрегатов и систем автомобильного транспорта. Сборка узлов и механизмов средней сложности."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сантехник",
+        "_Vacancy__url": "https://hh.ru/vacancy/121549204",
+        "_Vacancy__salary_from": 120000,
+        "_Vacancy__salary_to": 120000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Соответствующий опыт работы от 3-х лет. Профильное среднее образование.",
+        "_Vacancy__responsibility": "Монтаж систем водоснабжения, отопления, теплоснабжения, холодоснабжения ( новое строительство). Монтаж санитарно-технического оборудования."
+    },
+    {
+        "_Vacancy__name": "Оператор котельной",
+        "_Vacancy__url": "https://hh.ru/vacancy/121651819",
+        "_Vacancy__salary_from": 264800,
+        "_Vacancy__salary_to": 264800,
+        "_Vacancy__currency_salary": "KZT",
+        "_Vacancy__requirement": "Допуск к работе с сосудами под давлением. Опыт работы не менее 3-х лет. Знание принципов работы паровых котлов и...",
+        "_Vacancy__responsibility": "Выполняет по производственной необходимости, при наличии допусков, обязанности <highlighttext>слесаря</highlighttext> по ремонту насосов, сосудов, работающих под давлением и <highlighttext>слесаря</highlighttext> по ремонту..."
+    },
+    {
+        "_Vacancy__name": "Слесарь по сборке металлоконструкций",
+        "_Vacancy__url": "https://hh.ru/vacancy/121543496",
+        "_Vacancy__salary_from": 83400,
+        "_Vacancy__salary_to": 83400,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Умение работать со специнструментом. Умение читать чертежи. Знание устройства сварочного аппарата (СВАРКА ЭЛЕКТРОДОМ).",
+        "_Vacancy__responsibility": "Изготовление, сборка и регулировка простых деталей из сортового и листового металла. Разметка деталей по простым шаблонам. Прихватка и приварка деталей..."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сборщик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121689958",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 80000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": null,
+        "_Vacancy__responsibility": "Обеспечивать качественную сборку и монтаж. Сборка и монтаж деталей и узлов согласно техническим требованиям. Проверка качества и готовности собранных механизмов. "
+    },
+    {
+        "_Vacancy__name": "Слесарь МСР на производство автодеталей",
+        "_Vacancy__url": "https://hh.ru/vacancy/121404038",
+        "_Vacancy__salary_from": 100000,
+        "_Vacancy__salary_to": 100000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Опыт работы <highlighttext>слесарем</highlighttext> МСР от 1 года. Уверенное чтение чертежей. Ответственность и нацеленность на результат.",
+        "_Vacancy__responsibility": "Штамповка и вытяжка деталей из листового металла (толщина 0,8-1,5 мм) на гидравлических прессах. Работа на оборудовании для..."
+    },
+    {
+        "_Vacancy__name": "Слесарь по ремонту подвижного состава",
+        "_Vacancy__url": "https://hh.ru/vacancy/121655592",
+        "_Vacancy__salary_from": 60000,
+        "_Vacancy__salary_to": 60000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": null,
+        "_Vacancy__responsibility": "...железнодорожной техники (ремонты различной степени сложности, модернизация, поставка запасных частей, обучение и технический консалтинг), требуются <highlighttext>слесари</highlighttext> по ремонту подвижного состава."
+    },
+    {
+        "_Vacancy__name": "Разнорабочий",
+        "_Vacancy__url": "https://hh.ru/vacancy/121557080",
+        "_Vacancy__salary_from": 80000,
+        "_Vacancy__salary_to": 80000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Внимательность, аккуратность, ответственность.",
+        "_Vacancy__responsibility": "Выполнение работ по указанию мастера строительных и монтажных работ."
+    },
+    {
+        "_Vacancy__name": "Главный механик",
+        "_Vacancy__url": "https://hh.ru/vacancy/121715462",
+        "_Vacancy__salary_from": 300000,
+        "_Vacancy__salary_to": 383000,
+        "_Vacancy__currency_salary": "KZT",
+        "_Vacancy__requirement": "Высшее профильное техническое образование. Опыт работы в соответствующей сфере. Знания в области техники. Умение управлять коллективом. Коммуникабельность. Стрессоустойчивость.",
+        "_Vacancy__responsibility": "...по ремонту и обслуживанию оборудования. Подбор запчастей и расходных материалов, взаимодействие с поставщиками. Руководство персоналом технической службы (механики, <highlighttext>слесари</highlighttext>, наладчики)."
+    },
+    {
+        "_Vacancy__name": "Слесарь по сборке металлоконструкций",
+        "_Vacancy__url": "https://hh.ru/vacancy/116751479",
+        "_Vacancy__salary_from": 90000,
+        "_Vacancy__salary_to": 90000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Чтение чертежей. Навыки прихватки, гибки, рубки заготовок. Опыт работы по 4-6 разряду, подтвержденный записями в трудовой книжке. Ответственность.",
+        "_Vacancy__responsibility": "Сборка сложных узлов металлоконструкций под сварку по чертежам. Слесарная обработка и пригонка крупных деталей и сложных узлов. Подгонка натягов и..."
+    },
+    {
+        "_Vacancy__name": "Слесарь-сборщик летательных аппаратов",
+        "_Vacancy__url": "https://hh.ru/vacancy/118962295",
+        "_Vacancy__salary_from": 100000,
+        "_Vacancy__salary_to": 100000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Среднее профессиональное образование. Опыт от 3 лет.",
+        "_Vacancy__responsibility": "Сборка и регулировка узлов и агрегатов летательных аппаратов по чертежам, технологическим процессам."
+    },
+    {
+        "_Vacancy__name": "Монтировщик сцены",
+        "_Vacancy__url": "https://hh.ru/vacancy/120836995",
+        "_Vacancy__salary_from": 68000,
+        "_Vacancy__salary_to": 75000,
+        "_Vacancy__currency_salary": "RUR",
+        "_Vacancy__requirement": "Навыки какой-либо рабочей специальности приветствуются (<highlighttext>слесарь</highlighttext>, столяр, электрик, сантехник). Умение работать в команде при монтировке декораций спектаклей и репетиций. ",
+        "_Vacancy__responsibility": "Для постоянной работы театру имени Андрея Миронова требуется Монтировщик сцены, желательно с опытом работы в театре. Монтировка декораций, размонтировка декораций..."
     }
 ]
