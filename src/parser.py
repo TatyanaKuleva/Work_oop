@@ -23,10 +23,8 @@ class HeadHunterAPI(Parser):
             return None
         data_response = response.json()['items']
 
-        # json_result = json.dumps(data_response, indent=4, ensure_ascii=False)
         return data_response
 
-        # return  json_result
 
 
 
@@ -39,9 +37,3 @@ class HeadHunterAPI(Parser):
 
 
 
-
-if __name__ == "__main__":
-    hh = HeadHunterAPI()
-
-    print(hh.connect_api('python'))
-    print(type(hh.connect_api('python')))

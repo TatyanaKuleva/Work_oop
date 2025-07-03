@@ -1,11 +1,8 @@
-
+import json
 from src.parser import HeadHunterAPI, Parser
 from src.vacancies import Vacancy
 from src.filehandler import FileHandler, FileManager
-from src.utils import sorted_data_by_set_number, filtr_data_by_set_word
-
-import pandas as pd
-
+from src.utils import get_top_n_vacancies
 
 
 def main():
@@ -15,27 +12,28 @@ def main():
         hh = HeadHunterAPI()
 
     search_query= input('Введите поисковый запрос: ').lower()
-    result_dict = hh.connect_api(search_query)
-    work_file = FileManager()
-    list_for_save = work_file.save_to_file('list_vacancies.json', result_dict)
+    result_main_search = hh.connect_api(search_query) # запрос по API к HH по слову
+    main_search = FileManager('data/list_vacancies.json') # создает экземпляр класса для сохранение в файл
+    list_for_save = main_search.save_to_file(result_main_search) #сохраняет полученные данные в файл
 
-    get_data_list = work_file.get_data_from_file('list_vacancies.json')
-    list_vacancies = Vacancy.cast_to_object_list(get_data_list)
-    save_to_file = work_file.save_list_vacancies('vacancy.json', list_vacancies)
-    get_data_list = work_file.get_data_from_file('vacancy.json')
-    top_n = int(input('Введите количество вакансий для вывода в топ N: '))
-    top_n_salary = sorted_data_by_set_number(get_data_list, '_Vacancy__salary_from',top_n)
-    top_n_save_file = work_file.save_to_file('top_salary.json', top_n_salary)
-    search_word = input('Введите слово для поиска вакасий по требованиям: ').split()
-    vacancies_search_word = filtr_data_by_set_word(get_data_list, '_Vacancy__requirement', search_word)
-    vacancies_search_word_save_file = work_file.save_to_file('vacancies_with_search_word.json',vacancies_search_word)
+    get_data_list = main_search.get_data_from_file('data/list_vacancies.json') #достает данные из файла
+    list_vacancies = Vacancy.cast_to_object_list(get_data_list) #преобразует данные из файла в экземпляры класса Vacancy
+    save_to_file = main_search.save_list_vacancies(list_vacancies, 'data/work_list_vacancies.json') #сохраняет измененнные данные в новый файл
+    get_data_list_for_top= main_search.get_data_from_file('data/work_list_vacancies.json')# достает данные из файла
 
+    top_n = int(input('Введите количество вакансий для вывода в топ N: ')) #запрашивает у пользвателя кол-во вакансий топ
+    get_top_n= get_top_n_vacancies(list_vacancies, 'salary_from', top_n) #формирует топ n из экземпляров классов Vacancy
+    save_to_file_top_n = main_search.save_list_vacancies(get_top_n, 'data/top_n_vacancies.json')#сохраняет топ n файл
+    for_print_data_list_for_top = main_search.get_data_from_file('data/top_n_vacancies.json') # загружает данные топ n из файла для вывода в консоль
+    json_top_n = json.dumps(for_print_data_list_for_top, indent=4, ensure_ascii=False)#переводит в строку json
+    print(json_top_n) # выводит в консоль
 
-
-
-
-
-
+    search_word = input('Введите слово для поиска вакансий из списка: ').lower() #запрашивает слово для фильтра вакансий
+    get_data_list_for_filtr = main_search.get_data_from_file_with_filtr(search_word, 'data/work_list_vacancies.json' )# достает данные из файла с фильтром
+    save_to_file_filtr_word = main_search.save_to_file_add(get_data_list_for_filtr, 'data/filtr_word_vacancies.json') #сохраняет отфильтрованные вакансии в файл
+    for_print_data_list_filtr_word = main_search.get_data_from_file('data/filtr_word_vacancies.json') # загружает данные отфильтрованных вакансий из файла для вывода в консоль
+    json_filtr_word = json.dumps(for_print_data_list_filtr_word, indent=4, ensure_ascii=False)  # переводит в строку json
+    print(json_filtr_word)  # выводит в консоль
 
 
 
