@@ -1,16 +1,14 @@
-import json
+
 from abc import ABC, abstractmethod
 from fileinput import filename
 from src.vacancies import Vacancy
 from src.parser import HeadHunterAPI
 import json
+import re
 
 
 class FileHandler(ABC):
 
-    # @abstractmethod
-    # def save_to_file(self,filename, data):
-    #     pass
 
     @abstractmethod
     def add_data_to_file(self, vacancies, filename):
@@ -26,54 +24,117 @@ class FileHandler(ABC):
 
 
 class FileManager(FileHandler):
+    path: str
 
-    def save_list_vacancies(self, filename, data):
+    def __init__(self, path):
+        self.path = path
+
+    def save_list_vacancies(self, data, path_to_save):
         result = []
         for item in data:
             result.append(vars(item))
 
-        with open(filename, 'w', encoding='utf-8') as file:
+        with open(path_to_save, 'w', encoding='utf-8') as file:
              json.dump(result, file,  ensure_ascii=False, indent=4)
 
 
-    def save_to_file(self, filename, data):
-        with open(filename, 'w', encoding='utf-8') as file:
+    def save_to_file(self, data):
+        with open(self.path, 'w', encoding='utf-8') as file:
              json.dump(data, file,  ensure_ascii=False, indent=4)
 
+    def save_to_file_add(self, data, path_to_save):
+        with open(path_to_save, 'w', encoding='utf-8') as file:
+            json.dump(data, file,  ensure_ascii=False, indent=4)
 
-    def add_data_to_file(self, vacancies, filename):
-        with open(filename, 'w') as file:
+    def add_data_to_file(self, vacancies):
+        with open(self.path, 'w') as file:
             for vacancy in vacancies:
                 file.write(f'{vacancy}\n')
 
-    def get_data_from_file(self, filename):
-        with open(filename, 'r', encoding="utf-8") as file:
+    def get_data_from_file(self, path_get_data):
+        with open(path_get_data, 'r', encoding="utf-8") as file:
             data = json.load(file)
         return data
 
+    def get_data_from_file_with_filtr(self, search_word, path_get_data):
+        with open(path_get_data, 'r', encoding="utf-8") as file:
+            data = json.load(file)
+        pattern = re.compile(search_word, flags=re.IGNORECASE)
+        result_list = []
+        for item in data:
+            for value in item.values():
+                str_value = str(value)
+                if re.search(pattern, str_value, flags=0):
+                    result_list.append(item)
+                    break
+        return result_list
 
-    def delete_data_in_file(self, filename, vacancy):
+    def delete_data_in_file(self, key_for_del, value_for_del):
         """Читает файл, удаляет заданную строку и перезаписывает файл"""
         try:
-          with open(filename, 'r+') as file:
-              lines = file.readlines()
-              new_lines = [line for line in lines if line.strip() != vacancy]
-              with open(filename, 'w') as file:
-                  file.writelines(new_lines)
+            with open(self.path, 'r', encoding='utf-8') as file:
+                data = json.load(file)
+                if isinstance(data, list):
+                    initial_length = len(data)
+                    # Фильтруем список, исключая элемент с заданным ключом и значением
+                    data = [item for item in data if item.get(key_for_del) != value_for_del]
+                    if len(data) == initial_length:
+                        return False  # Элемент не найден
+                elif isinstance(data, dict):
+                    if key_for_del in data and data[key_for_del] == value_for_del:
+                        del data[key_for_del]
+                else:
+                    return False  # Элемент не найден
+
+            with open(self.path, 'w', encoding='utf-8') as file:
+                json.dump(data, file, indent=4, ensure_ascii=False)
+
+            return True
+
         except FileNotFoundError:
-            print(f'Файл не найден {filename}')
+            raise FileNotFoundError(f"Файл {self.path} не найден")
+        except json.JSONDecodeError:
+            raise ValueError("Файл содержит некорректные JSON данные")
         except Exception as e:
-          print(f"Произошла ошибка: {e}")
+            raise Exception(f"Произошла ошибка: {str(e)}")
+
 
 if __name__ == "__main__":
-    hh = HeadHunterAPI()
-    dict = hh.connect_api('python')
-    # vv = Vacancy.cast_to_object_list(dict)
-    obj = FileManager()
-    res = obj.save_to_file('res.json', dict)
-    print(res)
-    # vv = Vacancy('jh', 'https://api.hh.ru/areas/160', {'from': 2000, 'to': None, 'currency': 'USD', 'gross': False},
-    #              'ghjg', 'hjhk')
+    fm = FileManager("test")
+    fm.save_list_vacancies([Vacancy("Python Developer", "http://example.com", "100000-150000", "Python, Django", "Middle"),
+        Vacancy("JavaScript Developer", "http://example.com", "120000-180000", "JavaScript, React", "Senior")], "test")
+
+    with open("test", 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    # vacancy_to_delete = str(Vacancy("Python Developer", "http://example.com", "100000-150000", "Python, Django", "Middle"))
+    fm.delete_data_in_file("_name", "Python Developer")
+
+    with open("test", 'r') as f:
+        data = json.load(f)
+
+    print(len(data))
+
+    # print(remaining_vacancies)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
